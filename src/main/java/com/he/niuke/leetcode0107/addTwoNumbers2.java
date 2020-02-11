@@ -17,7 +17,7 @@ package com.he.niuke.leetcode0107;
  * 链接：https://leetcode-cn.com/problems/add-two-numbers
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class addTwoNumbers {
+public class addTwoNumbers2 {
 
     public static void main(String[] args) {
         ListNode listNode1=new ListNode(5);
@@ -32,29 +32,27 @@ public class addTwoNumbers {
         listNode4.setNext(listNode5);
         listNode5.setNext(listNode6);*/
 
-        ListNode result=addTwoNumber(listNode1,listNode4);
+        ListNode result=addTwoNumbers(listNode1,listNode4);
         System.out.println(result);
+
     }
-    private static ListNode addTwoNumber(ListNode l1, ListNode l2) {
-        return add(l1,l2,0);
+    private static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+        ListNode root = new ListNode(0);
+        ListNode cursor = root;
+        int carry = 0;
+        while(l1 != null || l2 != null || carry != 0) {
+            int l1Val = l1 != null ? l1.val : 0;
+            int l2Val = l2 != null ? l2.val : 0;
+            int sumVal = l1Val + l2Val + carry;
+            carry = sumVal / 10;
+            ListNode sumNode = new ListNode(sumVal % 10);
+            cursor.next = sumNode;
+            cursor = sumNode;
+            if(l1 != null) l1 = l1.next;
+            if(l2 != null) l2 = l2.next;
+        }
+        return root.next;
     }
 
-    private static ListNode add(ListNode l1, ListNode l2,int z){
-        //当两个链表都为null 并且 相加不进位时，直接返回null
-        //如果有进位，需要指定next = 为进位的数字（1）
-        if(l1==null && l2==null && z==0){
-            return null;
-        }
-        if(l1==null){
-            l1=new ListNode(0);
-        }
-        if(l2==null){
-            l2=new ListNode(0);
-        }
-        int value = l1.val+l2.val +z;
-        ListNode result = new ListNode(value%10);
-        result.next=add(l1.next,l2.next,value/10);
-        return result;
-    }
 
 }
