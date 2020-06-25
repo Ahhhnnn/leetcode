@@ -33,7 +33,7 @@ public class addTwoNumbers {
         listNode5.setNext(listNode6);*/
 
         ListNode result=addTwoNumber(listNode1,listNode4);
-        System.out.println(result);
+        System.out.println(result.getVal());
     }
     private static ListNode addTwoNumber(ListNode l1, ListNode l2) {
         return add(l1,l2,0);

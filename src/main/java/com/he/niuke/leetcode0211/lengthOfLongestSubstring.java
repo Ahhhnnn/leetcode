@@ -37,8 +37,8 @@ public class lengthOfLongestSubstring {
     private static int lengthOfLongestString(String s){
         int sum=0;
         char[] chars=s.toCharArray();
-        List<String> subString= new ArrayList<>();
-        List<String> temp = new ArrayList<>();
+        List<String> subString= new ArrayList<String>();
+        List<String> temp = new ArrayList<String>();
         for (int i = 0; i < chars.length; i++) {
             String chari=new String(new char[]{chars[i]});
             //如果temp中不含此元素，则不重复，加入子串后方
