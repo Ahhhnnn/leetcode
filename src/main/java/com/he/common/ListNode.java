@@ -1,4 +1,4 @@
-package com.he.niuke.leetcode0107;
+package com.he.common;
 
 public class ListNode {
     int val;
