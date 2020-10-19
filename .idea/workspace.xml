@@ -2,9 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51e693ce-05b5-43b8-9219-e969c3b5cbe7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/剑指offer/q03数组中重复的数字/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/剑指offer/q48最长不含重复字符的子字符串/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/剑指offer/q50第一个只出现一次的字符/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/DateTime/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/剑指offer/q204计数质数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/剑指offer/q448找到所有数组中消失的数字/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/剑指offer/q448找到所有数组中消失的数字/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/哈希表/q242有效的字母异位词/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q20有效括号/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q232用栈实现队列/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q239滑动窗口最大值/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q703703数据流中的第K大元素/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/链表/q141环形链表/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/链表/q24两两交换链表中的节点/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/he/哈希表/q94二叉树的中序遍历/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/he/哈希表/q94二叉树的中序遍历/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Soluton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Soluton2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/he/链表/q206反转链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/he/链表/q206反转链表/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/common/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/common/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/common/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/common/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0107/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0107/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0107/addTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0107/addTwoNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0107/addTwoNumbers2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0107/addTwoNumbers2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0211/lengthOfLongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0211/lengthOfLongestSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0212/findMedianSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0212/findMedianSortedArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/niuke/m1227/twoStackToQueen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/niuke/m1227/twoStackToQueen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/oom/OOMDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/oom/OOMDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q240搜索二维矩阵II/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/二分查找/q240搜索二维矩阵II/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q240搜索二维矩阵II/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/二分查找/q240搜索二维矩阵II/Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q287寻找重复数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/二分查找/q287寻找重复数/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q300最长上升子序列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/二分查找/q300最长上升子序列/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q33搜索旋转排序数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/二分查找/q33搜索旋转排序数组/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q33搜索旋转排序数组/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/二分查找/q33搜索旋转排序数组/Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q34在排序数组中查找元素的第一个和最后一个位置/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/二分查找/q34在排序数组中查找元素的第一个和最后一个位置/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q34在排序数组中查找元素的第一个和最后一个位置/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/二分查找/q34在排序数组中查找元素的第一个和最后一个位置/Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q03数组中重复的数字/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q03数组中重复的数字/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q04二维数组中的查找/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q04二维数组中的查找/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q11旋转数组的最小数字/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q11旋转数组的最小数字/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q48最长不含重复字符的子字符串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q48最长不含重复字符的子字符串/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q50第一个只出现一次的字符/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q50第一个只出现一次的字符/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q53在排序数组中查找数字/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q53在排序数组中查找数字/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q53缺失的数字/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q53缺失的数字/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q58of2左旋转字符串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q58of2左旋转字符串/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q58翻转单词顺序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q58翻转单词顺序/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q136只出现一次的数字/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q136只出现一次的数字/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q136只出现一次的数字/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q136只出现一次的数字/Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q139单词拆分/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q139单词拆分/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q1两数之和/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q1两数之和/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q1两数之和/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q1两数之和/Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q347前K个高频元素/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q347前K个高频元素/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q347前K个高频元素/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q347前K个高频元素/Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q3无重复字符的最长子串/Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q3无重复字符的最长子串/Solution1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q3无重复字符的最长子串/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q3无重复字符的最长子串/Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q49字母异位词分组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q49字母异位词分组/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q49字母异位词分组/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q49字母异位词分组/Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q560和为K的子数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q560和为K的子数组/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q739每日温度/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q739每日温度/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q739每日温度/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q739每日温度/Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q94二叉树的中序遍历/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q94二叉树的中序遍历/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q94二叉树的中序遍历/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q94二叉树的中序遍历/Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q101对称二叉树/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/树/q101对称二叉树/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q101对称二叉树/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/树/q101对称二叉树/Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q102二叉树的层序遍历/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/树/q102二叉树的层序遍历/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q102二叉树的层序遍历/Soluton2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/树/q102二叉树的层序遍历/Soluton2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q96不同的二叉搜索树/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/树/q96不同的二叉搜索树/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/链表/q206反转链表/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/链表/q206反转链表/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/链表/q206反转链表/mian.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/链表/q206反转链表/mian.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/链表/q21合并两个有序链表/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/链表/q21合并两个有序链表/Solution.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,51 +78,42 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/二分查找/q287寻找重复数/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q703703数据流中的第K大元素/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="218">
+              <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/剑指offer/q48最长不含重复字符的子字符串/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q239滑动窗口最大值/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+            <state relative-caret-position="391">
+              <caret line="61" column="33" lean-forward="true" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/剑指offer/q03数组中重复的数字/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#713#722#0" expanded="true" />
+                <element signature="e#981#990#0" expanded="true" />
+                <element signature="e#1210#1219#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/剑指offer/q50第一个只出现一次的字符/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q242有效的字母异位词/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#616#636#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="460">
+              <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="635">
+              <caret line="950" column="14" selection-start-line="950" selection-start-column="14" selection-end-line="950" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -68,8 +121,52 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/Deque.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
+            <state relative-caret-position="282">
               <caret line="454" column="6" selection-start-line="454" selection-start-column="6" selection-end-line="454" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/LinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="744" column="13" selection-start-line="744" selection-start-column="13" selection-end-line="744" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/lang/ThreadLocal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9476">
+              <caret line="460" selection-start-line="460" selection-end-line="460" />
+              <folding>
+                <element signature="e#3276#3277#0" expanded="true" />
+                <element signature="e#3337#3338#0" expanded="true" />
+                <element signature="e#7765#7766#0" expanded="true" />
+                <element signature="e#7802#7803#0" expanded="true" />
+                <element signature="e#8068#8069#0" expanded="true" />
+                <element signature="e#8137#8138#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/链表/q21合并两个有序链表/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="12" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/common/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -83,23 +180,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hreadLocalMap</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/he/niuke/leetcode0211/lengthOfLongestSubstring.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/he/哈希表/q139单词拆分/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/he/哈希表/q136只出现一次的数字/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/he/哈希表/q136只出现一次的数字/Solution2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/he/哈希表/q1两数之和/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/he/哈希表/q1两数之和/Solution2.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/he/common/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/he/哈希表/q94二叉树的中序遍历/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/he/哈希表/q94二叉树的中序遍历/Solution2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/he/哈希表/q347前K个高频元素/Solution2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/he/哈希表/q347前K个高频元素/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/he/哈希表/q739每日温度/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/he/哈希表/q739每日温度/Solution2.java" />
@@ -108,7 +199,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/he/niuke/leetcode0107/ListNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/he/niuke/leetcode0107/addTwoNumbers2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/he/niuke/leetcode0107/addTwoNumbers.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/he/链表/q206反转链表/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/he/链表/q21合并两个有序链表/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/he/哈希表/q3无重复字符的最长子串/Solution1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/he/哈希表/q3无重复字符的最长子串/Solution2.java" />
@@ -127,7 +217,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/he/树/q101对称二叉树/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/he/树/q101对称二叉树/Solution2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Soluton2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/he/oom/OOMDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/he/链表/q206反转链表/mian.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/he/剑指offer/q58翻转单词顺序/Solution.java" />
@@ -135,10 +224,24 @@
         <option value="$PROJECT_DIR$/src/main/java/com/he/剑指offer/q11旋转数组的最小数字/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/he/剑指offer/q53在排序数组中查找数字/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/he/剑指offer/q53缺失的数字/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/he/剑指offer/q04二维数组中的查找/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/he/剑指offer/q48最长不含重复字符的子字符串/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/he/剑指offer/q03数组中重复的数字/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/he/剑指offer/q50第一个只出现一次的字符/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/剑指offer/q204计数质数/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/剑指offer/q448找到所有数组中消失的数字/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/剑指offer/q448找到所有数组中消失的数字/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/链表/q206反转链表/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Soluton2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/哈希表/q94二叉树的中序遍历/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/剑指offer/q04二维数组中的查找/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/剑指offer/q48最长不含重复字符的子字符串/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/DateTime/demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/链表/q24两两交换链表中的节点/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/链表/q141环形链表/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q20有效括号/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q232用栈实现队列/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q703703数据流中的第K大元素/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q239滑动窗口最大值/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/哈希表/q242有效的字母异位词/Solution.java" />
       </list>
     </option>
   </component>
@@ -167,7 +270,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,7 +321,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="he" type="462c0819:PsiDirectoryNode" />
-              <item name="niuke" type="462c0819:PsiDirectoryNode" />
+              <item name="哈希表" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -228,23 +331,31 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="he" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
+              <item name="哈希表" type="462c0819:PsiDirectoryNode" />
+              <item name="q242有效的字母异位词" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597158671858" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603116909991" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../guide-rpc-framework" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="VisualVMLauncher" />
@@ -266,13 +377,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.he.剑指offer.q48最长不含重复字符的子字符串.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.he.链表.q141环形链表.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.he.剑指offer.q48最长不含重复字符的子字符串.*" />
+          <option name="PATTERN" value="com.he.链表.q141环形链表.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.he.堆栈and队列.q20有效括号.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.he.堆栈and队列.q20有效括号.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,11 +405,11 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.he.剑指offer.q50第一个只出现一次的字符.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.he.堆栈and队列.q703703数据流中的第K大元素.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.he.剑指offer.q50第一个只出现一次的字符.*" />
+          <option name="PATTERN" value="com.he.堆栈and队列.q703703数据流中的第K大元素.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,11 +418,11 @@
       </method>
     </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.he.剑指offer.q53缺失的数字.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.he.堆栈and队列.q239滑动窗口最大值.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.he.剑指offer.q53缺失的数字.*" />
+          <option name="PATTERN" value="com.he.堆栈and队列.q239滑动窗口最大值.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,24 +431,11 @@
       </method>
     </configuration>
     <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.he.剑指offer.q04二维数组中的查找.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.he.哈希表.q242有效的字母异位词.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.he.剑指offer.q04二维数组中的查找.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.he.剑指offer.q03数组中重复的数字.Solution" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.he.剑指offer.q03数组中重复的数字.*" />
+          <option name="PATTERN" value="com.he.哈希表.q242有效的字母异位词.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,19 +444,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Solution (5)" />
-      <item itemvalue="Application.Solution (1)" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Solution (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +486,21 @@
       <workItem from="1595606255694" duration="446000" />
       <workItem from="1595762434362" duration="377000" />
       <workItem from="1597067165172" duration="5583000" />
-      <workItem from="1597156062029" duration="1788000" />
+      <workItem from="1597156062029" duration="2388000" />
+      <workItem from="1597332378029" duration="141000" />
+      <workItem from="1597406375641" duration="807000" />
+      <workItem from="1597671737464" duration="2550000" />
+      <workItem from="1597761394276" duration="1859000" />
+      <workItem from="1597837882241" duration="5822000" />
+      <workItem from="1597932046762" duration="2139000" />
+      <workItem from="1598014391257" duration="603000" />
+      <workItem from="1598762307958" duration="14000" />
+      <workItem from="1600773216881" duration="1945000" />
+      <workItem from="1600864752170" duration="2909000" />
+      <workItem from="1601207395012" duration="1107000" />
+      <workItem from="1602326621231" duration="43000" />
+      <workItem from="1602936454039" duration="5629000" />
+      <workItem from="1603107528452" duration="5309000" />
     </task>
     <task id="LOCAL-00001" summary="2020-06-25">
       <created>1593095857381</created>
@@ -423,13 +548,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62542000" />
+    <option name="totallyTimeSpent" value="94019000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18666667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14453334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -440,8 +565,8 @@
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33296213" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3507795" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31737193" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.33853006" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -453,11 +578,11 @@
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.36596218" />
       <window_info anchor="bottom" id="MyBatis Log" order="14" />
-      <window_info anchor="bottom" id="Run with VisualVM" order="15" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="15" weight="0.32962137" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="16" weight="0.35746104" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2496" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.2496" />
       <window_info anchor="right" id="Maven" order="3" weight="0.32995737" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
@@ -469,7 +594,7 @@
       <window_info anchor="right" id="leetcode" order="11" side_tool="true" weight="0.32995737" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18453333" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14453334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -480,8 +605,8 @@
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3496659" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.43429846" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31737193" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.36414254" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -493,11 +618,11 @@
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.36596218" />
       <window_info anchor="bottom" id="MyBatis Log" order="14" />
-      <window_info anchor="bottom" id="Run with VisualVM" order="15" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="15" weight="0.32962137" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="16" weight="0.35746104" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2496" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.2496" />
       <window_info anchor="right" id="Maven" order="3" weight="0.32995737" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
@@ -583,12 +708,6 @@
           <line>18</line>
           <properties />
           <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://C:/Program Files/jdk1.8/src.zip!/java/util/HashMap.java</url>
-          <line>566</line>
-          <properties />
-          <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q49字母异位词分组/Solution.java</url>
@@ -698,242 +817,130 @@
           <properties />
           <option name="timeStamp" value="52" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/he/链表/q24两两交换链表中的节点/Solution.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q20有效括号/Solution.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q20有效括号/Solution.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/jdk1.8/src.zip!/java/util/PriorityQueue.java</url>
+          <line>651</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/jdk1.8/src.zip!/java/util/PriorityQueue.java</url>
+          <line>333</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q703703数据流中的第K大元素/Solution.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q703703数据流中的第K大元素/Solution.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q239滑动窗口最大值/Solution.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q239滑动窗口最大值/Solution.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q239滑动窗口最大值/Solution.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q242有效的字母异位词/Solution.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>split[i]</expression-string>
+        <expression-string>'a'</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>matrix1[midle]</expression-string>
+        <expression-string>sout</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>(matrix1[midle]</expression-string>
+        <expression-string>s.charAt(i) - 'a'</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>(left + right)/2</expression-string>
+        <expression-string>queue.</expression-string>
         <language-id>JAVA</language-id>
+        <custom-info>java.util.LinkedList</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>matrix[row][col]</expression-string>
+        <expression-string>queue.peekLast()</expression-string>
         <language-id>JAVA</language-id>
+        <custom-info>java.util.LinkedList</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>matrix.length</expression-string>
+        <expression-string>queue.peekFirst()</expression-string>
         <language-id>JAVA</language-id>
+        <custom-info>java.util.LinkedList</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>nums[i]</expression-string>
+        <expression-string>queue.peekfr</expression-string>
         <language-id>JAVA</language-id>
+        <custom-info>java.util.LinkedList</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>dp[i] &lt; dp[j] + 1</expression-string>
+        <expression-string>queue.peek()</expression-string>
         <language-id>JAVA</language-id>
+        <custom-info>java.util.LinkedList</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>nums[j] &gt; nums[i]</expression-string>
+        <expression-string>queue.peek()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/common/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q347前K个高频元素/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/链表/q21合并两个有序链表/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5221">
-          <caret line="253" column="72" selection-start-line="253" selection-start-column="72" selection-end-line="253" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18331">
-          <caret line="830" selection-start-line="830" selection-end-line="830" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104742">
-          <caret line="4592" selection-start-line="4592" selection-end-line="4592" />
-          <folding>
-            <element signature="e#153254#153255#0" expanded="true" />
-            <element signature="e#153583#153584#0" expanded="true" />
-            <element signature="e#153616#153617#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1748">
-          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/jdk1.8/jre/lib/rt.jar!/sun/util/calendar/ZoneInfoFile.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4347">
-          <caret line="218" selection-start-line="218" selection-end-line="218" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[剑指 Offer 59 - I]滑动窗口的最大值.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[217]存在重复元素.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q94二叉树的中序遍历/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="48" column="35" lean-forward="true" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q560和为K的子数组/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q3无重复字符的最长子串/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q3无重复字符的最长子串/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q94二叉树的中序遍历/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q49字母异位词分组/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/二分查找/q240搜索二维矩阵II/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="59" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q49字母异位词分组/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64630">
-          <caret line="2881" column="23" selection-start-line="2881" selection-start-column="23" selection-end-line="2881" selection-end-column="23" />
-          <folding>
-            <element signature="e#10659#10660#0" expanded="true" />
-            <element signature="e#10730#10731#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/DualPivotQuicksort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37927">
-          <caret line="1672" column="46" selection-start-line="1672" selection-start-column="46" selection-end-line="1672" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14513">
-          <caret line="676" selection-start-line="676" selection-end-line="676" />
-          <folding>
-            <element signature="e#19296#19297#0" expanded="true" />
-            <element signature="e#19379#19380#0" expanded="true" />
-            <element signature="e#23597#23598#0" expanded="true" />
-            <element signature="e#23651#23652#0" expanded="true" />
-            <element signature="e#24298#24299#0" expanded="true" />
-            <element signature="e#24363#24364#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/二分查找/q240搜索二维矩阵II/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
-          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/he/二分查找/q34在排序数组中查找元素的第一个和最后一个位置/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="365">
@@ -948,39 +955,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/二分查找/q33搜索旋转排序数组/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q94二叉树的中序遍历/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="39" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/common/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="1219">
+          <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
           <folding>
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/jdk1.8/jre/lib/rt.jar!/sun/misc/Queue.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Soluton2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="345">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/Queue.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q101对称二叉树/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="710">
-          <caret line="185" column="22" lean-forward="true" selection-start-line="185" selection-start-column="22" selection-end-line="185" selection-end-column="22" />
+        <state relative-caret-position="1242">
+          <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q94二叉树的中序遍历/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1863">
+          <caret line="86" column="9" selection-start-line="86" selection-start-column="9" selection-end-line="86" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2162">
+          <caret line="127" column="17" selection-start-line="127" selection-start-column="17" selection-end-line="127" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29900">
+          <caret line="1357" column="23" selection-start-line="1357" selection-start-column="23" selection-end-line="1357" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26312">
+          <caret line="1199" column="19" selection-start-line="1199" selection-start-column="19" selection-end-line="1199" selection-end-column="19" />
+          <folding>
+            <element signature="e#22675#22676#0" expanded="true" />
+            <element signature="e#22703#22704#0" expanded="true" />
+            <element signature="e#22933#22934#0" expanded="true" />
+            <element signature="e#22965#22966#0" expanded="true" />
+            <element signature="e#32644#32645#0" expanded="true" />
+            <element signature="e#32694#32695#0" expanded="true" />
+            <element signature="e#41392#41393#0" expanded="true" />
+            <element signature="e#41449#41450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/concurrent/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3220">
+          <caret line="179" column="27" selection-start-line="179" selection-start-column="27" selection-end-line="179" selection-end-column="27" />
+          <folding>
+            <element signature="e#5391#5392#0" expanded="true" />
+            <element signature="e#5448#5449#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -994,33 +1044,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/二分查找/q240搜索二维矩阵II/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="75" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="598">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="59" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Soluton2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/二分查找/q240搜索二维矩阵II/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/oom/OOMDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="828">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1031,52 +1065,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q101对称二叉树/Solution.java">
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        <state relative-caret-position="4094">
+          <caret line="222" column="27" selection-start-line="222" selection-start-column="27" selection-end-line="222" selection-end-column="27" />
+          <folding>
+            <element signature="e#7150#7151#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/链表/q206反转链表/mian.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="53" lean-forward="true" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+        <state relative-caret-position="1196">
+          <caret line="57" column="55" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/二分查找/q33搜索旋转排序数组/Solution2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/剑指offer/q03数组中重复的数字/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        <state relative-caret-position="345">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/链表/q206反转链表/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/剑指offer/q04二维数组中的查找/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/剑指offer/q58翻转单词顺序/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="851">
-          <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/剑指offer/q58of2左旋转字符串/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        <state relative-caret-position="1127">
+          <caret line="49" column="9" selection-start-line="41" selection-start-column="40" selection-end-line="49" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/he/剑指offer/q11旋转数组的最小数字/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="41" selection-end-column="29" />
+        <state relative-caret-position="391">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/剑指offer/q48最长不含重复字符的子字符串/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="943">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/剑指offer/q50第一个只出现一次的字符/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1094,80 +1143,229 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/剑指offer/q04二维数组中的查找/Solution.java">
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/time/temporal/TemporalUnit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="943">
-          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+        <state relative-caret-position="3772">
+          <caret line="230" column="66" selection-start-line="230" selection-start-column="66" selection-end-line="230" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/lang/String.java">
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/time/temporal/TemporalAdjusters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63710">
-          <caret line="2853" column="18" selection-start-line="2853" selection-start-column="18" selection-end-line="2853" selection-end-column="18" />
+        <state relative-caret-position="1242">
+          <caret line="124" column="64" selection-start-line="124" selection-start-column="64" selection-end-line="124" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/niuke/leetcode0107/addTwoNumbers.java">
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/text/SimpleDateFormat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="35" column="58" lean-forward="true" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+        <state relative-caret-position="31671">
+          <caret line="1436" column="30" selection-start-line="1436" selection-start-column="30" selection-end-line="1436" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/二分查找/q300最长上升子序列/Solution.java">
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/text/DateFormat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        <state relative-caret-position="2622">
+          <caret line="163" column="26" selection-start-line="163" selection-start-column="26" selection-end-line="163" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/二分查找/q287寻找重复数/Solution.java">
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/text/CalendarBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        <state relative-caret-position="1058">
+          <caret line="70" column="47" selection-start-line="70" selection-start-column="47" selection-end-line="70" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/time/temporal/ChronoUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="262" column="34" lean-forward="true" selection-start-line="262" selection-start-column="34" selection-end-line="262" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/DateTime/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/time/temporal/TemporalAccessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="943">
+          <caret line="102" column="17" selection-start-line="102" selection-start-column="17" selection-end-line="102" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/time/temporal/ChronoField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7245">
+          <caret line="394" column="4" selection-start-line="394" selection-start-column="4" selection-end-line="394" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/time/temporal/Temporal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="128" column="21" selection-start-line="128" selection-start-column="21" selection-end-line="128" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/time/temporal/TemporalAdjuster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="105" column="17" selection-start-line="105" selection-start-column="17" selection-end-line="105" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/time/LocalDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="834">
+          <caret line="154" column="7" lean-forward="true" selection-start-line="154" selection-start-column="7" selection-end-line="154" selection-end-column="7" />
+          <folding>
+            <element signature="e#7027#7028#0" expanded="true" />
+            <element signature="e#7080#7081#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/链表/q206反转链表/mian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9476">
+          <caret line="460" selection-start-line="460" selection-end-line="460" />
+          <folding>
+            <element signature="e#3276#3277#0" expanded="true" />
+            <element signature="e#3337#3338#0" expanded="true" />
+            <element signature="e#7765#7766#0" expanded="true" />
+            <element signature="e#7802#7803#0" expanded="true" />
+            <element signature="e#8068#8069#0" expanded="true" />
+            <element signature="e#8137#8138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/链表/q21合并两个有序链表/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="12" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/common/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q232用栈实现队列/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q20有效括号/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/链表/q141环形链表/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="37" column="34" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/链表/q24两两交换链表中的节点/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="17" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/链表/q206反转链表/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="660" column="23" lean-forward="true" selection-start-line="660" selection-start-column="23" selection-end-line="660" selection-end-column="23" />
+          <folding>
+            <element signature="e#12969#12970#0" expanded="true" />
+            <element signature="e#13025#13026#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q703703数据流中的第K大元素/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="744" column="13" selection-start-line="744" selection-start-column="13" selection-end-line="744" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/Deque.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
+        <state relative-caret-position="282">
           <caret line="454" column="6" selection-start-line="454" selection-start-column="6" selection-end-line="454" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/剑指offer/q48最长不含重复字符的子字符串/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q239滑动窗口最大值/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        <state relative-caret-position="391">
+          <caret line="61" column="33" lean-forward="true" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#981#990#0" expanded="true" />
+            <element signature="e#1210#1219#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/剑指offer/q03数组中重复的数字/Solution.java">
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#713#722#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="635">
+          <caret line="950" column="14" selection-start-line="950" selection-start-column="14" selection-end-line="950" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/剑指offer/q50第一个只出现一次的字符/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q242有效的字母异位词/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#616#636#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="460">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
         </state>
       </provider>
     </entry>

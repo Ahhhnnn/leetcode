@@ -22,7 +22,7 @@ public class Soluton2 {
         System.out.println(lists);
     }
     private static List<List<Integer>> levelOrder(TreeNode root) {
-        //按层遍历即可
+        //按层遍历即可 层次遍历 BFS 一般用队列实现
         //1.返回结果
         List<List<Integer>> lists = new ArrayList<List<Integer>>();
         if (root == null) {

@@ -46,7 +46,9 @@ public class Solution {
         //当前节点
         ListNode curr = head;
         while (curr != null){
+            // 保存当前节点指向的下一个接口
             ListNode temp = curr.getNext();
+            // 将当前节点指向上一个节点
             curr.setNext(prev);
             prev = curr;
             curr = temp;

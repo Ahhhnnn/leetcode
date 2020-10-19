@@ -52,6 +52,7 @@ public class Solution {
         //如果没有左子树，说明自己就是叶子节点，将自己的value加进去
         list.add(root.getVal());
         if(root.getRight()!=null){
+            // 将右子节点继续递归，同样进行中序遍历
             helper(root.getRight(),list);
         }
     }
