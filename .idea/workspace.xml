@@ -1,73 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51e693ce-05b5-43b8-9219-e969c3b5cbe7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/DateTime/demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/剑指offer/q204计数质数/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/剑指offer/q448找到所有数组中消失的数字/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/剑指offer/q448找到所有数组中消失的数字/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/哈希表/q242有效的字母异位词/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q20有效括号/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q232用栈实现队列/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q239滑动窗口最大值/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q703703数据流中的第K大元素/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/链表/q141环形链表/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/链表/q24两两交换链表中的节点/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/he/哈希表/q94二叉树的中序遍历/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/he/哈希表/q94二叉树的中序遍历/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Soluton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Soluton2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/he/链表/q206反转链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/he/链表/q206反转链表/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/common/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/common/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/common/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/common/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0107/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0107/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0107/addTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0107/addTwoNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0107/addTwoNumbers2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0107/addTwoNumbers2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0211/lengthOfLongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0211/lengthOfLongestSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0212/findMedianSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0212/findMedianSortedArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/niuke/m1227/twoStackToQueen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/niuke/m1227/twoStackToQueen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/oom/OOMDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/oom/OOMDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q240搜索二维矩阵II/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/二分查找/q240搜索二维矩阵II/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q240搜索二维矩阵II/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/二分查找/q240搜索二维矩阵II/Solution2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q287寻找重复数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/二分查找/q287寻找重复数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q300最长上升子序列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/二分查找/q300最长上升子序列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q33搜索旋转排序数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/二分查找/q33搜索旋转排序数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q33搜索旋转排序数组/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/二分查找/q33搜索旋转排序数组/Solution2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q34在排序数组中查找元素的第一个和最后一个位置/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/二分查找/q34在排序数组中查找元素的第一个和最后一个位置/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q34在排序数组中查找元素的第一个和最后一个位置/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/二分查找/q34在排序数组中查找元素的第一个和最后一个位置/Solution2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q03数组中重复的数字/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q03数组中重复的数字/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q04二维数组中的查找/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q04二维数组中的查找/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q11旋转数组的最小数字/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q11旋转数组的最小数字/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q48最长不含重复字符的子字符串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q48最长不含重复字符的子字符串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q50第一个只出现一次的字符/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q50第一个只出现一次的字符/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q53在排序数组中查找数字/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q53在排序数组中查找数字/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q53缺失的数字/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q53缺失的数字/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q58of2左旋转字符串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q58of2左旋转字符串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q58翻转单词顺序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q58翻转单词顺序/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q136只出现一次的数字/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q136只出现一次的数字/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q136只出现一次的数字/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q136只出现一次的数字/Solution2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q139单词拆分/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q139单词拆分/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q1两数之和/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q1两数之和/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q1两数之和/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q1两数之和/Solution2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q347前K个高频元素/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q347前K个高频元素/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q347前K个高频元素/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q347前K个高频元素/Solution2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q3无重复字符的最长子串/Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q3无重复字符的最长子串/Solution1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q3无重复字符的最长子串/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q3无重复字符的最长子串/Solution2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q49字母异位词分组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q49字母异位词分组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q49字母异位词分组/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q49字母异位词分组/Solution2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q560和为K的子数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q560和为K的子数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q739每日温度/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q739每日温度/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q739每日温度/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q739每日温度/Solution2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q94二叉树的中序遍历/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q94二叉树的中序遍历/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q94二叉树的中序遍历/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/哈希表/q94二叉树的中序遍历/Solution2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q101对称二叉树/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/树/q101对称二叉树/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q101对称二叉树/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/树/q101对称二叉树/Solution2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q102二叉树的层序遍历/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/树/q102二叉树的层序遍历/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q102二叉树的层序遍历/Soluton2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/树/q102二叉树的层序遍历/Soluton2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q96不同的二叉搜索树/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/树/q96不同的二叉搜索树/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/链表/q206反转链表/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/链表/q206反转链表/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/链表/q206反转链表/mian.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/链表/q206反转链表/mian.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/链表/q21合并两个有序链表/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/链表/q21合并两个有序链表/Solution.class" afterDir="false" />
-    </list>
+    <list default="true" id="51e693ce-05b5-43b8-9219-e969c3b5cbe7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,95 +12,109 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q703703数据流中的第K大元素/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+            <state relative-caret-position="1127">
+              <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q239滑动窗口最大值/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Soluton2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="61" column="33" lean-forward="true" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+            <state relative-caret-position="874">
+              <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#981#990#0" expanded="true" />
-                <element signature="e#1210#1219#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Solution3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q104二叉树的最大深度/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="736">
+              <caret line="32" column="88" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q107二叉树的层次遍历2/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1656">
+              <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="78" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q94二叉树的中序遍历/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q94二叉树的中序遍历/Solution2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q242有效的字母异位词/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/二叉树遍历/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/Map.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="635">
-              <caret line="950" column="14" selection-start-line="950" selection-start-column="14" selection-end-line="950" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/Deque.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="454" column="6" selection-start-line="454" selection-start-column="6" selection-end-line="454" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/LinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="744" column="13" selection-start-line="744" selection-start-column="13" selection-end-line="744" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/lang/ThreadLocal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9476">
-              <caret line="460" selection-start-line="460" selection-end-line="460" />
+            <state relative-caret-position="452">
+              <caret line="59" column="1" selection-start-line="5" selection-end-line="59" selection-end-column="1" />
               <folding>
-                <element signature="e#3276#3277#0" expanded="true" />
-                <element signature="e#3337#3338#0" expanded="true" />
-                <element signature="e#7765#7766#0" expanded="true" />
-                <element signature="e#7802#7803#0" expanded="true" />
-                <element signature="e#8068#8069#0" expanded="true" />
-                <element signature="e#8137#8138#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/链表/q21合并两个有序链表/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q111二叉树的最小深度/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="12" selection-end-column="45" />
+            <state relative-caret-position="782">
+              <caret line="34" column="85" selection-start-line="34" selection-start-column="85" selection-end-line="34" selection-end-column="85" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/common/ListNode.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q235二叉搜索树的最近公共祖先/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="1955">
+              <caret line="85" column="5" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -191,14 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/he/哈希表/q347前K个高频元素/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/he/哈希表/q739每日温度/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/he/哈希表/q739每日温度/Solution2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/he/链表/反转链表/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/he/common/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/he/niuke/leetcode0107/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/he/niuke/leetcode0107/addTwoNumbers2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/he/niuke/leetcode0107/addTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/he/链表/q21合并两个有序链表/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/he/哈希表/q3无重复字符的最长子串/Solution1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/he/哈希表/q3无重复字符的最长子串/Solution2.java" />
@@ -242,6 +182,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q703703数据流中的第K大元素/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q239滑动窗口最大值/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/he/哈希表/q242有效的字母异位词/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/哈希表/q15三数之和/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/树/q98验证二叉搜索树/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/树/q235二叉搜索树的最近公共祖先/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Solution3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/树/q104二叉树的最大深度/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/树/q111二叉树的最小深度/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/树/q107二叉树的层次遍历2/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/he/树/二叉树遍历/Solution.java" />
       </list>
     </option>
   </component>
@@ -270,7 +218,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -278,81 +226,18 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="he" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="he" type="462c0819:PsiDirectoryNode" />
-              <item name="哈希表" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="he" type="462c0819:PsiDirectoryNode" />
-              <item name="哈希表" type="462c0819:PsiDirectoryNode" />
-              <item name="q242有效的字母异位词" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603116909991" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../guide-rpc-framework" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1605277938924" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../thinking-in-spring-boot-samples" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -377,26 +262,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (5)">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.he.链表.q141环形链表.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.he.树.二叉树遍历.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.he.链表.q141环形链表.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.he.堆栈and队列.q20有效括号.Solution" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.he.堆栈and队列.q20有效括号.*" />
+          <option name="PATTERN" value="com.he.树.二叉树遍历.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -405,11 +277,11 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.he.堆栈and队列.q703703数据流中的第K大元素.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.he.树.q104二叉树的最大深度.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.he.堆栈and队列.q703703数据流中的第K大元素.*" />
+          <option name="PATTERN" value="com.he.树.q104二叉树的最大深度.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -418,11 +290,11 @@
       </method>
     </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.he.堆栈and队列.q239滑动窗口最大值.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.he.树.q111二叉树的最小深度.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.he.堆栈and队列.q239滑动窗口最大值.*" />
+          <option name="PATTERN" value="com.he.树.q111二叉树的最小深度.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -430,12 +302,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.he.哈希表.q242有效的字母异位词.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.he.树.q107二叉树的层次遍历2.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.he.哈希表.q242有效的字母异位词.*" />
+          <option name="PATTERN" value="com.he.树.q107二叉树的层次遍历2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.he.树.q102二叉树的层序遍历.Solution3" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.he.树.q102二叉树的层序遍历.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -444,19 +329,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (1)" />
-      <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.Solution3" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (4)" />
-      <item itemvalue="Application.Solution (5)" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution3" />
       </list>
     </recent_temporary>
   </component>
@@ -500,7 +385,11 @@
       <workItem from="1601207395012" duration="1107000" />
       <workItem from="1602326621231" duration="43000" />
       <workItem from="1602936454039" duration="5629000" />
-      <workItem from="1603107528452" duration="5309000" />
+      <workItem from="1603107528452" duration="6103000" />
+      <workItem from="1603451709490" duration="9794000" />
+      <workItem from="1604924700638" duration="104000" />
+      <workItem from="1605270742303" duration="7161000" />
+      <workItem from="1605277922243" duration="60000" />
     </task>
     <task id="LOCAL-00001" summary="2020-06-25">
       <created>1593095857381</created>
@@ -544,18 +433,31 @@
       <option name="project" value="LOCAL" />
       <updated>1594550366444</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2020-10-23">
+      <created>1603465559018</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603465559018</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2020-11-13">
+      <created>1605277942876</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605277942876</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94019000" />
+    <option name="totallyTimeSpent" value="111932000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14453334" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.15093334" />
+      <window_info id="Structure" order="1" sideWeight="0.50163937" side_tool="true" weight="0.14933333" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -565,15 +467,15 @@
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31737193" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.33853006" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31848553" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49973333" weight="0.39198217" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32962137" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.41379312" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32962137" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5002667" side_tool="true" weight="0.37750557" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.26169264" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.36596218" />
@@ -594,8 +496,8 @@
       <window_info anchor="right" id="leetcode" order="11" side_tool="true" weight="0.32995737" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14453334" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.14933333" />
+      <window_info id="Structure" order="1" sideWeight="0.50163937" side_tool="true" weight="0.14933333" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -605,14 +507,14 @@
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31737193" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.36414254" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20824054" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49973333" weight="0.39198217" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32962137" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.41379312" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5002667" side_tool="true" weight="0.37750557" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32962137" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -644,7 +546,9 @@
     <MESSAGE value="2020-07-09" />
     <MESSAGE value="2020-07-011" />
     <MESSAGE value="2020-07-12" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-07-12" />
+    <MESSAGE value="2020-10-23" />
+    <MESSAGE value="2020-11-13" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-11-13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -883,167 +787,107 @@
           <properties />
           <option name="timeStamp" value="69" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q15三数之和/Solution.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/he/树/q98验证二叉搜索树/Solution.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/he/树/q235二叉搜索树的最近公共祖先/Solution.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/he/树/q235二叉搜索树的最近公共祖先/Solution.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Solution3.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Solution3.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/he/树/q104二叉树的最大深度/Solution.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/he/树/q111二叉树的最小深度/Solution.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>'a'</expression-string>
+        <expression-string>(left == 0 || right ==0) ? left + right +1 : 1 + Math.min(left,right)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>sout</expression-string>
+        <expression-string>maxDepth(root.right)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>s.charAt(i) - 'a'</expression-string>
+        <expression-string>maxDepth(root.left)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>queue.</expression-string>
+        <expression-string>Math.max(maxDepth(root.left),maxDepth(root.right))</expression-string>
         <language-id>JAVA</language-id>
-        <custom-info>java.util.LinkedList</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>queue.peekLast()</expression-string>
+        <expression-string>lists.get(0)</expression-string>
         <language-id>JAVA</language-id>
-        <custom-info>java.util.LinkedList</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>queue.peekFirst()</expression-string>
+        <expression-string>lists</expression-string>
         <language-id>JAVA</language-id>
-        <custom-info>java.util.LinkedList</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>queue.peekfr</expression-string>
+        <expression-string>lists.get(level)</expression-string>
         <language-id>JAVA</language-id>
-        <custom-info>java.util.LinkedList</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>queue.peek()</expression-string>
+        <expression-string>-Double.MAX_VALUE &gt;= 0</expression-string>
         <language-id>JAVA</language-id>
-        <custom-info>java.util.LinkedList</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>queue.peek()</expression-string>
+        <expression-string>prev &gt;= 0</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/二分查找/q34在排序数组中查找元素的第一个和最后一个位置/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/二分查找/q34在排序数组中查找元素的第一个和最后一个位置/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q94二叉树的中序遍历/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1219">
-          <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Soluton2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q101对称二叉树/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1242">
-          <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q94二叉树的中序遍历/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1863">
-          <caret line="86" column="9" selection-start-line="86" selection-start-column="9" selection-end-line="86" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/concurrent/Executor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2162">
-          <caret line="127" column="17" selection-start-line="127" selection-start-column="17" selection-end-line="127" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29900">
-          <caret line="1357" column="23" selection-start-line="1357" selection-start-column="23" selection-end-line="1357" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26312">
-          <caret line="1199" column="19" selection-start-line="1199" selection-start-column="19" selection-end-line="1199" selection-end-column="19" />
-          <folding>
-            <element signature="e#22675#22676#0" expanded="true" />
-            <element signature="e#22703#22704#0" expanded="true" />
-            <element signature="e#22933#22934#0" expanded="true" />
-            <element signature="e#22965#22966#0" expanded="true" />
-            <element signature="e#32644#32645#0" expanded="true" />
-            <element signature="e#32694#32695#0" expanded="true" />
-            <element signature="e#41392#41393#0" expanded="true" />
-            <element signature="e#41449#41450#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/concurrent/CountDownLatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3220">
-          <caret line="179" column="27" selection-start-line="179" selection-start-column="27" selection-end-line="179" selection-end-column="27" />
-          <folding>
-            <element signature="e#5391#5392#0" expanded="true" />
-            <element signature="e#5448#5449#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q101对称二叉树/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="53" column="72" selection-start-line="53" selection-start-column="15" selection-end-line="53" selection-end-column="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/he/二分查找/q240搜索二维矩阵II/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
@@ -1071,16 +915,6 @@
           <caret line="222" column="27" selection-start-line="222" selection-start-column="27" selection-end-line="222" selection-end-column="27" />
           <folding>
             <element signature="e#7150#7151#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1196">
-          <caret line="57" column="55" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1241,35 +1075,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/lang/ThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9476">
-          <caret line="460" selection-start-line="460" selection-end-line="460" />
-          <folding>
-            <element signature="e#3276#3277#0" expanded="true" />
-            <element signature="e#3337#3338#0" expanded="true" />
-            <element signature="e#7765#7766#0" expanded="true" />
-            <element signature="e#7802#7803#0" expanded="true" />
-            <element signature="e#8068#8069#0" expanded="true" />
-            <element signature="e#8137#8138#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/链表/q21合并两个有序链表/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="12" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/common/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q232用栈实现队列/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="365">
@@ -1324,48 +1129,180 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q703703数据流中的第K大元素/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="744" column="13" selection-start-line="744" selection-start-column="13" selection-end-line="744" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/Deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="454" column="6" selection-start-line="454" selection-start-column="6" selection-end-line="454" selection-end-column="6" />
+        <state relative-caret-position="920">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q239滑动窗口最大值/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="61" column="33" lean-forward="true" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+        <state relative-caret-position="1357">
+          <caret line="61" column="33" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#981#990#0" expanded="true" />
-            <element signature="e#1210#1219#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q15三数之和/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q98验证二叉搜索树/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1978">
+          <caret line="86" column="4" selection-start-line="86" selection-start-column="4" selection-end-line="92" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="635">
+        <state relative-caret-position="21252">
           <caret line="950" column="14" selection-start-line="950" selection-start-column="14" selection-end-line="950" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9683">
+          <caret line="454" column="6" selection-start-line="454" selection-start-column="6" selection-end-line="454" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16077">
+          <caret line="744" column="13" selection-start-line="744" selection-start-column="13" selection-end-line="744" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/jdk1.8/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9476">
+          <caret line="460" selection-start-line="460" selection-end-line="460" />
+          <folding>
+            <element signature="e#3276#3277#0" expanded="true" />
+            <element signature="e#3337#3338#0" expanded="true" />
+            <element signature="e#7765#7766#0" expanded="true" />
+            <element signature="e#7802#7803#0" expanded="true" />
+            <element signature="e#8068#8069#0" expanded="true" />
+            <element signature="e#8137#8138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/链表/q21合并两个有序链表/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="12" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/common/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q242有效的字母异位词/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        <state relative-caret-position="598">
+          <caret line="38" column="29" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1127">
+          <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Soluton2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Solution3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q104二叉树的最大深度/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="32" column="88" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q107二叉树的层次遍历2/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1656">
+          <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="78" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q94二叉树的中序遍历/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/哈希表/q94二叉树的中序遍历/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q111二叉树的最小深度/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="34" column="85" selection-start-line="34" selection-start-column="85" selection-end-line="34" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/q235二叉搜索树的最近公共祖先/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1955">
+          <caret line="85" column="5" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/he/树/二叉树遍历/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="59" column="1" selection-start-line="5" selection-end-line="59" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
