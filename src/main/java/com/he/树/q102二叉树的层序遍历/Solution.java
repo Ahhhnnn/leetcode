@@ -70,7 +70,6 @@ public class Solution {
             queue1.addAll(queue2);
             queue2.clear();
             result.add(leave);
-
         }
         return result;
     }

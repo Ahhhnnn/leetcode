@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,15 +23,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e693ce-05b5-43b8-9219-e969c3b5cbe7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/分治/q50Pow/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/贪心算法/q122买卖股票最佳时机/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_unknown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_unknown.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_unknown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_unknown.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/leetcode.kotlin_module" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/位运算/q15二进制中1的个数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/哈希表/q39数组中出现次数超过一半的数字/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q09用两个栈实现队列/CQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q40最小的k个数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q41数据流中的中位数/MedianFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/包含min函数的栈/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/树/J55II平衡二叉树/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/树/J68二叉树的最近公共祖先/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 26ShuDeZiJieGouLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 27ErChaShuDeJingXiangLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 28DuiChengDeErChaShuLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 32 - ICongShangDaoXiaDaYinErChaShuLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 32 - IICongShangDaoXiaDaYinErChaShuIiLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 32 - IIICongShangDaoXiaDaYinErChaShuIiiLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 34ErChaShuZhongHeWeiMouYiZhiDeLuJingLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 37XuLieHuaErChaShuLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 54ErChaSouSuoShuDeDiKdaJieDianLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/he/树/q101对称二叉树/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/he/树/q101对称二叉树/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/he/堆栈and队列/q232用栈实现队列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/堆栈and队列/q232用栈实现队列/Solution.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q101对称二叉树/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/树/q101对称二叉树/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q102二叉树的层序遍历/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/树/q102二叉树的层序遍历/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/二叉树遍历/Solution$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/树/二叉树遍历/Solution$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/二叉树遍历/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/树/二叉树遍历/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,22 +74,22 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="E:\maven_local_repository" />
+        <option name="mavenHome" value="E:\softwore\IntelliJ IDEA 2020.2.4\plugins\maven\lib\maven3" />
         <option name="userSettingsFile" value="C:\apache-maven-3.5.4\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="477" />
-    <option name="y" value="10" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
-  </component>
   <component name="ProjectId" id="1jPlYSGUSD3Y666tpjYxXy3SUte" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -81,20 +101,20 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="VisualVMLauncher" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.he.niuke.leetcode0107" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.he.贪心算法.q122买卖股票最佳时机.Solution" />
+  <component name="RunManager" selected="Application.从上到下打印二叉树2">
+    <configuration name="对称的二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.对称的二叉树" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.he.贪心算法.q122买卖股票最佳时机.*" />
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.he.堆栈and队列.q703703数据流中的第K大元素.Solution" />
+    <configuration name="从上到下打印二叉树2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.从上到下打印二叉树2" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.he.堆栈and队列.q703703数据流中的第K大元素.*" />
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.he.堆栈and队列.q239滑动窗口最大值.Solution" />
+    <configuration name="从上到下打印二叉树3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.从上到下打印二叉树3" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.he.堆栈and队列.q239滑动窗口最大值.*" />
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.he.哈希表.q242有效的字母异位词.Solution" />
+    <configuration name="二叉树的镜像" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.二叉树的镜像" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.he.哈希表.q242有效的字母异位词.*" />
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,36 +161,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.he.分治.q50Pow.Solution" />
+    <configuration name="序列化二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.序列化二叉树" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.he.分治.q50Pow.*" />
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (3)" />
-      <item itemvalue="Application.Solution (4)" />
-      <item itemvalue="Application.Solution (5)" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.从上到下打印二叉树2" />
+      <item itemvalue="Application.从上到下打印二叉树3" />
+      <item itemvalue="Application.对称的二叉树" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.对称的二叉树" />
+        <item itemvalue="Application.从上到下打印二叉树3" />
+        <item itemvalue="Application.从上到下打印二叉树2" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -213,6 +241,16 @@
       <workItem from="1602936454039" duration="5629000" />
       <workItem from="1603107528452" duration="5309000" />
       <workItem from="1603713658039" duration="3253000" />
+      <workItem from="1605435110259" duration="746000" />
+      <workItem from="1608551551193" duration="5971000" />
+      <workItem from="1608645458237" duration="3219000" />
+      <workItem from="1608723403492" duration="3333000" />
+      <workItem from="1608815651620" duration="3460000" />
+      <workItem from="1608993515050" duration="785000" />
+      <workItem from="1608994325488" duration="2040000" />
+      <workItem from="1609043841354" duration="422000" />
+      <workItem from="1609044279268" duration="13378000" />
+      <workItem from="1609161574701" duration="676000" />
     </task>
     <task id="LOCAL-00001" summary="2020-06-25">
       <created>1593095857381</created>
@@ -260,7 +298,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -272,8 +310,24 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="2020-06-25" />
     <MESSAGE value="2020-06-26" />
     <MESSAGE value="2020-06-28" />
@@ -283,42 +337,82 @@
     <option name="LAST_COMMIT_MESSAGE" value="2020-07-12" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="627" y="424" key="#Custom_Plugin_Repositories" timestamp="1609044217421">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="424" key="#Custom_Plugin_Repositories/0.0.1920.1040@0.0.1920.1040" timestamp="1609044217421" />
+    <state x="694" y="343" key="#Notifications" timestamp="1608995329746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="343" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1608995329746" />
+    <state x="390" y="160" key="#Plugins" timestamp="1608993908653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="390" y="160" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1608993908653" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1608558950805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608558950805" />
     <state x="483" y="160" key="#xdebugger.evaluate" timestamp="1603720901518">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="483" y="160" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1603720901518" />
-    <state width="1398" height="252" key="GridCell.Tab.0.bottom" timestamp="1603721304318">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="450" height="493" key="DebuggerActiveHint" timestamp="1609058094720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="450" height="493" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1609058094720" />
+    <state width="1877" height="239" key="GridCell.Tab.0.bottom" timestamp="1609062196489">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1398" height="252" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603721304318" />
-    <state width="1398" height="252" key="GridCell.Tab.0.center" timestamp="1603721304317">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1877" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
+    <state width="1877" height="239" key="GridCell.Tab.0.center" timestamp="1609062196489">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1398" height="252" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603721304317" />
-    <state width="1398" height="252" key="GridCell.Tab.0.left" timestamp="1603721304316">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1877" height="239" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
+    <state width="1877" height="239" key="GridCell.Tab.0.left" timestamp="1609062196489">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1398" height="252" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603721304316" />
-    <state width="1398" height="252" key="GridCell.Tab.0.right" timestamp="1603721304318">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1877" height="239" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
+    <state width="1877" height="239" key="GridCell.Tab.0.right" timestamp="1609062196489">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1398" height="252" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603721304318" />
-    <state width="1398" height="252" key="GridCell.Tab.1.bottom" timestamp="1603721304321">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1877" height="239" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
+    <state width="1877" height="239" key="GridCell.Tab.1.bottom" timestamp="1609062196489">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1398" height="252" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603721304321" />
-    <state width="1398" height="252" key="GridCell.Tab.1.center" timestamp="1603721304320">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1877" height="239" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
+    <state width="1877" height="239" key="GridCell.Tab.1.center" timestamp="1609062196489">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1398" height="252" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1603721304320" />
-    <state width="1398" height="252" key="GridCell.Tab.1.left" timestamp="1603721304319">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1877" height="239" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
+    <state width="1877" height="239" key="GridCell.Tab.1.left" timestamp="1609062196489">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1398" height="252" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1603721304319" />
-    <state width="1398" height="252" key="GridCell.Tab.1.right" timestamp="1603721304320">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1877" height="239" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
+    <state width="1877" height="239" key="GridCell.Tab.1.right" timestamp="1609062196489">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1398" height="252" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1603721304320" />
+    <state width="1877" height="239" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
+    <state x="90" y="170" width="1331" height="711" key="SettingsEditor" timestamp="1609044261867">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="90" y="170" width="1331" height="711" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609044261867" />
+    <state x="681" y="261" width="582" height="524" key="StructurePopup" timestamp="1608556088248">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="261" width="582" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1608556088248" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1608994276459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608994276459" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -528,8 +622,63 @@
           <line>48</line>
           <option name="timeStamp" value="71" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q09用两个栈实现队列/CQueue.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q09用两个栈实现队列/CQueue.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/he/树/J68二叉树的最近公共祖先/Solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 34ErChaShuZhongHeWeiMouYiZhiDeLuJingLcof.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 34ErChaShuZhongHeWeiMouYiZhiDeLuJingLcof.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 32 - IIICongShangDaoXiaDaYinErChaShuIiiLcof.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 32 - IIICongShangDaoXiaDaYinErChaShuIiiLcof.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 37XuLieHuaErChaShuLcof.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 37XuLieHuaErChaShuLcof.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 27ErChaShuDeJingXiangLcof.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="leetcode.editor.cn.二叉树的镜像$TreeNode" memberName="val" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
   <component name="masterDetails">
     <states>

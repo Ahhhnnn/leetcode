@@ -52,6 +52,11 @@ public class Solution {
     }
 
 
+    //     1
+    //   /  \
+    //  2    2
+    // / \  / \
+    // 3  4 4  3
     private static boolean check(TreeNode left,TreeNode right){
         if(left == null && right ==null){
             return true;
