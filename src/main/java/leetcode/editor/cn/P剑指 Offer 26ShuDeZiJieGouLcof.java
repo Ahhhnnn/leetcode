@@ -56,11 +56,15 @@ class 树的子结构{
  */
 class Solution {
     public boolean isSubStructure(TreeNode A, TreeNode B) {
-
+        // 如果B是A的子结构，或者B是A左右子树的子结构（依次向下递归）
+        return (A != null && B != null) && (recur(A,B) || isSubStructure(A.left,B) || isSubStructure(A.right,B));
     }
 
-    public List<Integer> leaveOrder(){
-
+    public boolean recur(TreeNode A, TreeNode B){
+        if(B == null) return true;
+        if(A == null) return false;
+        if(A.val != B.val) return false;
+        return recur(A.left,B.left) && recur(A.right,B.right);
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

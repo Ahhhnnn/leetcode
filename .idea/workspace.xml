@@ -23,32 +23,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e693ce-05b5-43b8-9219-e969c3b5cbe7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/位运算/q15二进制中1的个数/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/哈希表/q39数组中出现次数超过一半的数字/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q09用两个栈实现队列/CQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q40最小的k个数/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q41数据流中的中位数/MedianFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/包含min函数的栈/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/树/J55II平衡二叉树/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/he/树/J68二叉树的最近公共祖先/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 26ShuDeZiJieGouLcof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 27ErChaShuDeJingXiangLcof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 28DuiChengDeErChaShuLcof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 32 - ICongShangDaoXiaDaYinErChaShuLcof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 32 - IICongShangDaoXiaDaYinErChaShuIiLcof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 32 - IIICongShangDaoXiaDaYinErChaShuIiiLcof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 34ErChaShuZhongHeWeiMouYiZhiDeLuJingLcof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 37XuLieHuaErChaShuLcof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 54ErChaSouSuoShuDeDiKdaJieDianLcof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/translation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/he/树/q101对称二叉树/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/he/树/q101对称二叉树/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/he/树/q102二叉树的层序遍历/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/堆栈and队列/q232用栈实现队列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/堆栈and队列/q232用栈实现队列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q101对称二叉树/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/树/q101对称二叉树/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q102二叉树的层序遍历/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/树/q102二叉树的层序遍历/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/二叉树遍历/Solution$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/树/二叉树遍历/Solution$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/二叉树遍历/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/he/树/二叉树遍历/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 10- IFeiBoNaQiShuLieLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 10- IIQingWaTiaoTaiJieWenTiLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 11XuanZhuanShuZuDeZuiXiaoShuZiLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/mian-shi-ti-10-i-fei-bo-na-qi-shu-lie-dong-tai-gui.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/p___x_+_y__odot_p_=__x_odot_p_+_y_odot_p__odot_p_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/p__f_n__odot_p_=__f_n-1__odot_p_+_f_n-2__odot_p__odot_p_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/p__odot_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/p__sum_=__a_+_b__odot_1000000007_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 26ShuDeZiJieGouLcof.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 26ShuDeZiJieGouLcof.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +85,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -251,6 +235,7 @@
       <workItem from="1609043841354" duration="422000" />
       <workItem from="1609044279268" duration="13378000" />
       <workItem from="1609161574701" duration="676000" />
+      <workItem from="1609251573080" duration="3929000" />
     </task>
     <task id="LOCAL-00001" summary="2020-06-25">
       <created>1593095857381</created>
@@ -401,10 +386,10 @@
     </state>
     <state width="1398" height="252" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1603721304320" />
     <state width="1877" height="239" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
-    <state x="90" y="170" width="1331" height="711" key="SettingsEditor" timestamp="1609044261867">
+    <state x="90" y="170" width="1331" height="711" key="SettingsEditor" timestamp="1609251892607">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="90" y="170" width="1331" height="711" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609044261867" />
+    <state x="90" y="170" width="1331" height="711" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609251892607" />
     <state x="681" y="261" width="582" height="524" key="StructurePopup" timestamp="1608556088248">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
