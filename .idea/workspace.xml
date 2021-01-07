@@ -23,16 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e693ce-05b5-43b8-9219-e969c3b5cbe7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 10- IFeiBoNaQiShuLieLcof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 10- IIQingWaTiaoTaiJieWenTiLcof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 11XuanZhuanShuZuDeZuiXiaoShuZiLcof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/mian-shi-ti-10-i-fei-bo-na-qi-shu-lie-dong-tai-gui.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/p___x_+_y__odot_p_=__x_odot_p_+_y_odot_p__odot_p_.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/p__f_n__odot_p_=__f_n-1__odot_p_+_f_n-2__odot_p__odot_p_.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/p__odot_.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/p__sum_=__a_+_b__odot_1000000007_.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 26ShuDeZiJieGouLcof.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 26ShuDeZiJieGouLcof.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/translation.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,6 +228,10 @@
       <workItem from="1609044279268" duration="13378000" />
       <workItem from="1609161574701" duration="676000" />
       <workItem from="1609251573080" duration="3929000" />
+      <workItem from="1609494776085" duration="609000" />
+      <workItem from="1609497476171" duration="2735000" />
+      <workItem from="1609565146672" duration="601000" />
+      <workItem from="1609764877467" duration="1558000" />
     </task>
     <task id="LOCAL-00001" summary="2020-06-25">
       <created>1593095857381</created>
@@ -334,10 +330,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="390" y="160" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1608993908653" />
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1608558950805">
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1609504342114">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608558950805" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1609504342114" />
     <state x="483" y="160" key="#xdebugger.evaluate" timestamp="1603720901518">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -390,14 +386,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="90" y="170" width="1331" height="711" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609251892607" />
-    <state x="681" y="261" width="582" height="524" key="StructurePopup" timestamp="1608556088248">
+    <state x="681" y="261" width="582" height="524" key="StructurePopup" timestamp="1609500442885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="681" y="261" width="582" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1608556088248" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1608994276459">
+    <state x="681" y="261" width="582" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1609500442885" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1609504368775">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608994276459" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609504368775" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
