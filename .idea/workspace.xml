@@ -23,8 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e693ce-05b5-43b8-9219-e969c3b5cbe7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 11XuanZhuanShuZuDeZuiXiaoShuZiLcof.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 11XuanZhuanShuZuDeZuiXiaoShuZiLcof.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +83,7 @@
       <recent name="com.he.niuke.leetcode0107" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.从上到下打印二叉树2">
+  <component name="RunManager" selected="Application.二叉搜索树的第k大节点">
     <configuration name="对称的二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.对称的二叉树" />
       <module name="leetcode" />
@@ -150,6 +149,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="二叉搜索树的第k大节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.二叉搜索树的第k大节点" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -165,9 +177,11 @@
       <item itemvalue="Application.从上到下打印二叉树2" />
       <item itemvalue="Application.从上到下打印二叉树3" />
       <item itemvalue="Application.对称的二叉树" />
+      <item itemvalue="Application.二叉搜索树的第k大节点" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.二叉搜索树的第k大节点" />
         <item itemvalue="Application.对称的二叉树" />
         <item itemvalue="Application.从上到下打印二叉树3" />
         <item itemvalue="Application.从上到下打印二叉树2" />
@@ -232,6 +246,9 @@
       <workItem from="1609497476171" duration="2735000" />
       <workItem from="1609565146672" duration="601000" />
       <workItem from="1609764877467" duration="1558000" />
+      <workItem from="1610288175043" duration="103000" />
+      <workItem from="1611239808201" duration="1637000" />
+      <workItem from="1615793890402" duration="40000" />
     </task>
     <task id="LOCAL-00001" summary="2020-06-25">
       <created>1593095857381</created>
@@ -386,14 +403,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="90" y="170" width="1331" height="711" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609251892607" />
-    <state x="681" y="261" width="582" height="524" key="StructurePopup" timestamp="1609500442885">
+    <state x="681" y="261" width="582" height="524" key="StructurePopup" timestamp="1611240795339">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="681" y="261" width="582" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1609500442885" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1609504368775">
+    <state x="681" y="261" width="582" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1611240795339" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1611240792128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609504368775" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611240792128" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

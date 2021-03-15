@@ -1,0 +1,31 @@
+*.class
+.DS_Store
+application.pid
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Eclipse
+.classpath
+.project
+target
+.settings
+
+# Idea
+.idea
+.idea/
+*.iml
+
+# git
+*.orig
+————————————————
+版权声明：本文为CSDN博主「萧逸才」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/xyc_csdn/article/details/100025874
