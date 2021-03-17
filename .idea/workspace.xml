@@ -23,7 +23,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e693ce-05b5-43b8-9219-e969c3b5cbe7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 11XuanZhuanShuZuDeZuiXiaoShuZiLcof.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 11XuanZhuanShuZuDeZuiXiaoShuZiLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 17DaYinCong1daoZuiDaDeNweiShuLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 18ShanChuLianBiaoDeJieDianLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 20BiaoShiShuZhiDeZiFuChuanLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 25HeBingLiangGePaiXuDeLianBiaoLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 29ShunShiZhenDaYinJuZhenLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 31ZhanDeYaRuDanChuXuLieLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 33ErChaSouSuoShuDeHouXuBianLiXuLieLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 35FuZaLianBiaoDeFuZhiLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 40ZuiXiaoDeKgeShuLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 42LianXuZiShuZuDeZuiDaHeLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 44ShuZiXuLieZhongMouYiWeiDeShuZiLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 50DiYiGeZhiChuXianYiCiDeZiFuLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 52LiangGeLianBiaoDeDiYiGeGongGongJieDianLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/mian-shi-ti-17-da-yin-cong-1-dao-zui-da-de-n-wei-2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/p__0,_1,_2,_cdots_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/p__00,_01,_02,_cdots_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/translation.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,9 +100,9 @@
       <recent name="com.he.niuke.leetcode0107" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.二叉搜索树的第k大节点">
-    <configuration name="对称的二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.对称的二叉树" />
+  <component name="RunManager" selected="Application.最小的k个数">
+    <configuration name="栈的压入弹出序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.栈的压入弹出序列" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="从上到下打印二叉树2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.从上到下打印二叉树2" />
+    <configuration name="打印从1到最大的n位数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.打印从1到最大的n位数" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +127,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="从上到下打印二叉树3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.从上到下打印二叉树3" />
+    <configuration name="删除链表的节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.删除链表的节点" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="合并两个排序的链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.合并两个排序的链表" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二叉搜索树的后序遍历序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.二叉搜索树的后序遍历序列" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -149,8 +192,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="二叉搜索树的第k大节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.二叉搜索树的第k大节点" />
+    <configuration name="最小的k个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.最小的k个数" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -174,17 +217,15 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.从上到下打印二叉树2" />
-      <item itemvalue="Application.从上到下打印二叉树3" />
-      <item itemvalue="Application.对称的二叉树" />
-      <item itemvalue="Application.二叉搜索树的第k大节点" />
+      <item itemvalue="Application.打印从1到最大的n位数" />
+      <item itemvalue="Application.栈的压入弹出序列" />
+      <item itemvalue="Application.最小的k个数" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.二叉搜索树的第k大节点" />
-        <item itemvalue="Application.对称的二叉树" />
-        <item itemvalue="Application.从上到下打印二叉树3" />
-        <item itemvalue="Application.从上到下打印二叉树2" />
+        <item itemvalue="Application.最小的k个数" />
+        <item itemvalue="Application.栈的压入弹出序列" />
+        <item itemvalue="Application.打印从1到最大的n位数" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +289,9 @@
       <workItem from="1609764877467" duration="1558000" />
       <workItem from="1610288175043" duration="103000" />
       <workItem from="1611239808201" duration="1637000" />
-      <workItem from="1615793890402" duration="40000" />
+      <workItem from="1615793890402" duration="4536000" />
+      <workItem from="1615872641994" duration="5715000" />
+      <workItem from="1615963984822" duration="3615000" />
     </task>
     <task id="LOCAL-00001" summary="2020-06-25">
       <created>1593095857381</created>
@@ -351,54 +394,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1609504342114" />
-    <state x="483" y="160" key="#xdebugger.evaluate" timestamp="1603720901518">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="483" y="160" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1603720901518" />
-    <state width="450" height="493" key="DebuggerActiveHint" timestamp="1609058094720">
+    <state width="450" height="493" key="DebuggerActiveHint" timestamp="1615967467564">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="450" height="493" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1609058094720" />
-    <state width="1877" height="239" key="GridCell.Tab.0.bottom" timestamp="1609062196489">
+    <state width="450" height="493" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1615967467564" />
+    <state width="1877" height="232" key="GridCell.Tab.0.bottom" timestamp="1615968049983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1398" height="252" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603721304318" />
-    <state width="1877" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
-    <state width="1877" height="239" key="GridCell.Tab.0.center" timestamp="1609062196489">
+    <state width="1877" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615968049983" />
+    <state width="1877" height="232" key="GridCell.Tab.0.center" timestamp="1615968049983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1398" height="252" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603721304317" />
-    <state width="1877" height="239" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
-    <state width="1877" height="239" key="GridCell.Tab.0.left" timestamp="1609062196489">
+    <state width="1877" height="232" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615968049983" />
+    <state width="1877" height="232" key="GridCell.Tab.0.left" timestamp="1615968049983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1398" height="252" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603721304316" />
-    <state width="1877" height="239" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
-    <state width="1877" height="239" key="GridCell.Tab.0.right" timestamp="1609062196489">
+    <state width="1877" height="232" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615968049983" />
+    <state width="1877" height="232" key="GridCell.Tab.0.right" timestamp="1615968049983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1398" height="252" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603721304318" />
-    <state width="1877" height="239" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
-    <state width="1877" height="239" key="GridCell.Tab.1.bottom" timestamp="1609062196489">
+    <state width="1877" height="232" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615968049983" />
+    <state width="1877" height="190" key="GridCell.Tab.1.bottom" timestamp="1615967555117">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1398" height="252" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603721304321" />
-    <state width="1877" height="239" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
-    <state width="1877" height="239" key="GridCell.Tab.1.center" timestamp="1609062196489">
+    <state width="1877" height="190" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615967555117" />
+    <state width="1877" height="190" key="GridCell.Tab.1.center" timestamp="1615967555117">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1398" height="252" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1603721304320" />
-    <state width="1877" height="239" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
-    <state width="1877" height="239" key="GridCell.Tab.1.left" timestamp="1609062196489">
+    <state width="1877" height="190" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615967555117" />
+    <state width="1877" height="190" key="GridCell.Tab.1.left" timestamp="1615967555116">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1398" height="252" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1603721304319" />
-    <state width="1877" height="239" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
-    <state width="1877" height="239" key="GridCell.Tab.1.right" timestamp="1609062196489">
+    <state width="1877" height="190" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615967555116" />
+    <state width="1877" height="190" key="GridCell.Tab.1.right" timestamp="1615967555117">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1398" height="252" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1603721304320" />
-    <state width="1877" height="239" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
+    <state width="1877" height="190" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615967555117" />
     <state x="90" y="170" width="1331" height="711" key="SettingsEditor" timestamp="1609251892607">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -407,10 +438,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="681" y="261" width="582" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1611240795339" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1611240792128">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1615795078554">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611240792128" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1615795078554" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -571,16 +602,6 @@
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://C:/Program Files/jdk1.8/src.zip!/java/util/PriorityQueue.java</url>
-          <line>651</line>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://C:/Program Files/jdk1.8/src.zip!/java/util/PriorityQueue.java</url>
-          <line>333</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/he/堆栈and队列/q703703数据流中的第K大元素/Solution.java</url>
           <line>46</line>
           <option name="timeStamp" value="61" />
@@ -669,6 +690,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 27ErChaShuDeJingXiangLcof.java</url>
           <line>57</line>
           <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 18ShanChuLianBiaoDeJieDianLcof.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 25HeBingLiangGePaiXuDeLianBiaoLcof.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 33ErChaSouSuoShuDeHouXuBianLiXuLieLcof.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 40ZuiXiaoDeKgeShuLcof.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="93" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
