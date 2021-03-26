@@ -25,7 +25,7 @@ public class Solution {
         listNode1.setNext(listNode2);
         listNode2.setNext(listNode3);
         listNode3.setNext(listNode4);
-        listNode4.setNext(listNode2);
+        //listNode4.setNext(listNode2);
         boolean b = hasCycle(listNode1);
         System.out.println(b);
     }

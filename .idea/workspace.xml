@@ -23,16 +23,137 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e693ce-05b5-43b8-9219-e969c3b5cbe7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 10- IFeiBoNaQiShuLieLcof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 10- IIQingWaTiaoTaiJieWenTiLcof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 11XuanZhuanShuZuDeZuiXiaoShuZiLcof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/mian-shi-ti-10-i-fei-bo-na-qi-shu-lie-dong-tai-gui.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/p___x_+_y__odot_p_=__x_odot_p_+_y_odot_p__odot_p_.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/p__f_n__odot_p_=__f_n-1__odot_p_+_f_n-2__odot_p__odot_p_.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/p__odot_.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/p__sum_=__a_+_b__odot_1000000007_.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 26ShuDeZiJieGouLcof.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 26ShuDeZiJieGouLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/nccEnvSetting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[剑指 Offer 10- I]斐波那契数列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[剑指 Offer 18]删除链表的节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[剑指 Offer 22]链表中倒数第k个节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[剑指 Offer 24]反转链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/3chong-jie-jue-fang-shi-zhan-shuang-lian-biao-di-g.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/mian-shi-ti-22-lian-biao-zhong-dao-shu-di-kge-j-11.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_unknown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_unknown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/he/链表/q141环形链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/he/链表/q141环形链表/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 11XuanZhuanShuZuDeZuiXiaoShuZiLcof.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 11XuanZhuanShuZuDeZuiXiaoShuZiLcof.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/DateTime/demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/common/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/common/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0107/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0107/addTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0107/addTwoNumbers2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0211/lengthOfLongestSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/niuke/leetcode0212/findMedianSortedArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/niuke/m1227/twoStackToQueen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/oom/OOMDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q240搜索二维矩阵II/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q240搜索二维矩阵II/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q287寻找重复数/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q300最长上升子序列/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q33搜索旋转排序数组/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q33搜索旋转排序数组/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q34在排序数组中查找元素的第一个和最后一个位置/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/二分查找/q34在排序数组中查找元素的第一个和最后一个位置/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/位运算/q15二进制中1的个数/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/分治/q50Pow/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q03数组中重复的数字/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q04二维数组中的查找/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q11旋转数组的最小数字/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q204计数质数/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q448找到所有数组中消失的数字/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q448找到所有数组中消失的数字/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q48最长不含重复字符的子字符串/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q50第一个只出现一次的字符/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q53在排序数组中查找数字/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q53缺失的数字/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q58of2左旋转字符串/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/剑指offer/q58翻转单词顺序/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q136只出现一次的数字/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q136只出现一次的数字/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q139单词拆分/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q15三数之和/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q1两数之和/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q1两数之和/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q242有效的字母异位词/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q347前K个高频元素/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q347前K个高频元素/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q39数组中出现次数超过一半的数字/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q3无重复字符的最长子串/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q3无重复字符的最长子串/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q49字母异位词分组/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q49字母异位词分组/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q560和为K的子数组/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q739每日温度/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q739每日温度/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q94二叉树的中序遍历/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/哈希表/q94二叉树的中序遍历/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/堆栈and队列/q09用两个栈实现队列/CQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/堆栈and队列/q20有效括号/Solution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/堆栈and队列/q20有效括号/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/堆栈and队列/q232用栈实现队列/Solution$MyQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/堆栈and队列/q232用栈实现队列/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/堆栈and队列/q239滑动窗口最大值/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/堆栈and队列/q40最小的k个数/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/堆栈and队列/q41数据流中的中位数/MedianFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/堆栈and队列/q703703数据流中的第K大元素/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/堆栈and队列/包含min函数的栈/MinStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/J55II平衡二叉树/Solution$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/J55II平衡二叉树/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/J68二叉树的最近公共祖先/Solution$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/J68二叉树的最近公共祖先/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q101对称二叉树/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q101对称二叉树/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q102二叉树的层序遍历/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q102二叉树的层序遍历/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q102二叉树的层序遍历/Soluton2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q104二叉树的最大深度/Solution$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q104二叉树的最大深度/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q107二叉树的层次遍历2/Solution$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q107二叉树的层次遍历2/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q111二叉树的最小深度/Solution$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q111二叉树的最小深度/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q235二叉搜索树的最近公共祖先/Solution$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q235二叉搜索树的最近公共祖先/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q96不同的二叉搜索树/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q98验证二叉搜索树/Solution$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/q98验证二叉搜索树/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/二叉树遍历/Solution$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/树/二叉树遍历/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/贪心算法/q122买卖股票最佳时机/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/链表/q141环形链表/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/链表/q206反转链表/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/链表/q206反转链表/mian.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/链表/q21合并两个有序链表/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/he/链表/q24两两交换链表中的节点/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/二叉搜索树的第k大节点$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/二叉搜索树的第k大节点$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/二叉搜索树的第k大节点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/二叉树中和为某一值的路径$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/二叉树中和为某一值的路径$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/二叉树中和为某一值的路径.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/二叉树的镜像$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/二叉树的镜像$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/二叉树的镜像.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/从上到下打印二叉树$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/从上到下打印二叉树$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/从上到下打印二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/从上到下打印二叉树2$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/从上到下打印二叉树2$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/从上到下打印二叉树2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/从上到下打印二叉树3$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/从上到下打印二叉树3$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/从上到下打印二叉树3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/对称的二叉树$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/对称的二叉树$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/对称的二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/序列化二叉树$Codec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/序列化二叉树$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/序列化二叉树.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +179,6 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="E:\maven_local_repository" />
-        <option name="mavenHome" value="E:\softwore\IntelliJ IDEA 2020.2.4\plugins\maven\lib\maven3" />
         <option name="userSettingsFile" value="C:\apache-maven-3.5.4\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -74,6 +194,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -82,7 +203,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
@@ -92,52 +213,52 @@
       <recent name="com.he.niuke.leetcode0107" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.从上到下打印二叉树2">
-    <configuration name="对称的二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.对称的二叉树" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.editor.cn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="从上到下打印二叉树2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.从上到下打印二叉树2" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.editor.cn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="从上到下打印二叉树3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.从上到下打印二叉树3" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.editor.cn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Gradle./Users/hening/hening/study/code/leetcode">
     <configuration name="二叉树的镜像" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.二叉树的镜像" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FanZhuanLianBiaoLcof" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.FanZhuanLianBiaoLcof" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.he.链表.q24两两交换链表中的节点.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.he.链表.q24两两交换链表中的节点.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.he.链表.q141环形链表.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.he.链表.q141环形链表.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,27 +279,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="二叉搜索树的第k大节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.二叉搜索树的第k大节点" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/hening/hening/study/code/leetcode" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Application.从上到下打印二叉树2" />
-      <item itemvalue="Application.从上到下打印二叉树3" />
-      <item itemvalue="Application.对称的二叉树" />
+      <item itemvalue="Application.二叉树的镜像" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.二叉搜索树的第k大节点" />
+      <item itemvalue="Application.FanZhuanLianBiaoLcof" />
+      <item itemvalue="Gradle./Users/hening/hening/study/code/leetcode" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.对称的二叉树" />
-        <item itemvalue="Application.从上到下打印二叉树3" />
-        <item itemvalue="Application.从上到下打印二叉树2" />
+        <item itemvalue="Gradle./Users/hening/hening/study/code/leetcode" />
+        <item itemvalue="Application.FanZhuanLianBiaoLcof" />
+        <item itemvalue="Application.二叉搜索树的第k大节点" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -236,6 +383,15 @@
       <workItem from="1609044279268" duration="13378000" />
       <workItem from="1609161574701" duration="676000" />
       <workItem from="1609251573080" duration="3929000" />
+      <workItem from="1610197413887" duration="438000" />
+      <workItem from="1610969395284" duration="592000" />
+      <workItem from="1610978930482" duration="83000" />
+      <workItem from="1611056486317" duration="1583000" />
+      <workItem from="1611466661424" duration="445000" />
+      <workItem from="1614318691513" duration="256000" />
+      <workItem from="1614329801249" duration="946000" />
+      <workItem from="1614836662957" duration="3028000" />
+      <workItem from="1615254240822" duration="3439000" />
     </task>
     <task id="LOCAL-00001" summary="2020-06-25">
       <created>1593095857381</created>
@@ -320,84 +476,6 @@
     <MESSAGE value="2020-07-011" />
     <MESSAGE value="2020-07-12" />
     <option name="LAST_COMMIT_MESSAGE" value="2020-07-12" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="627" y="424" key="#Custom_Plugin_Repositories" timestamp="1609044217421">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="627" y="424" key="#Custom_Plugin_Repositories/0.0.1920.1040@0.0.1920.1040" timestamp="1609044217421" />
-    <state x="694" y="343" key="#Notifications" timestamp="1608995329746">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="694" y="343" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1608995329746" />
-    <state x="390" y="160" key="#Plugins" timestamp="1608993908653">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="390" y="160" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1608993908653" />
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1608558950805">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608558950805" />
-    <state x="483" y="160" key="#xdebugger.evaluate" timestamp="1603720901518">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="483" y="160" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1603720901518" />
-    <state width="450" height="493" key="DebuggerActiveHint" timestamp="1609058094720">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="450" height="493" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1609058094720" />
-    <state width="1877" height="239" key="GridCell.Tab.0.bottom" timestamp="1609062196489">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1398" height="252" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603721304318" />
-    <state width="1877" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
-    <state width="1877" height="239" key="GridCell.Tab.0.center" timestamp="1609062196489">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1398" height="252" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603721304317" />
-    <state width="1877" height="239" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
-    <state width="1877" height="239" key="GridCell.Tab.0.left" timestamp="1609062196489">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1398" height="252" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603721304316" />
-    <state width="1877" height="239" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
-    <state width="1877" height="239" key="GridCell.Tab.0.right" timestamp="1609062196489">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1398" height="252" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603721304318" />
-    <state width="1877" height="239" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
-    <state width="1877" height="239" key="GridCell.Tab.1.bottom" timestamp="1609062196489">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1398" height="252" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603721304321" />
-    <state width="1877" height="239" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
-    <state width="1877" height="239" key="GridCell.Tab.1.center" timestamp="1609062196489">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1398" height="252" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1603721304320" />
-    <state width="1877" height="239" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
-    <state width="1877" height="239" key="GridCell.Tab.1.left" timestamp="1609062196489">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1398" height="252" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1603721304319" />
-    <state width="1877" height="239" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
-    <state width="1877" height="239" key="GridCell.Tab.1.right" timestamp="1609062196489">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1398" height="252" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1603721304320" />
-    <state width="1877" height="239" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609062196489" />
-    <state x="90" y="170" width="1331" height="711" key="SettingsEditor" timestamp="1609251892607">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="90" y="170" width="1331" height="711" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609251892607" />
-    <state x="681" y="261" width="582" height="524" key="StructurePopup" timestamp="1608556088248">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="681" y="261" width="582" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1608556088248" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1608994276459">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608994276459" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -656,6 +734,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 27ErChaShuDeJingXiangLcof.java</url>
           <line>57</line>
           <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[剑指 Offer 22]链表中倒数第k个节点.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="87" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
