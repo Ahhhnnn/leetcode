@@ -81,7 +81,7 @@ class 两个链表的第一个公共节点{
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        
+        return null;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

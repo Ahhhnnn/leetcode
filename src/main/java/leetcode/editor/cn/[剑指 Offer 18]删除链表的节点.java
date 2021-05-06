@@ -34,7 +34,14 @@ class ShanChuLianBiaoDeJieDianLcof{
      public static void main(String[] args) {
          //测试代码  
          Solution solution = new ShanChuLianBiaoDeJieDianLcof().new Solution();
-
+         ListNode head = new ListNode(4);
+         ListNode node1 = new ListNode(5);
+         ListNode node2 = new ListNode(1);
+         node2.next = new ListNode(9);
+         node1.next = node2;
+         head.next = node1;
+         ListNode listNode = solution.deleteNode(head, 1);
+         System.out.println(listNode);
      }  
 //力扣代码  
     //leetcode submit region begin(Prohibit modification and deletion)
@@ -48,7 +55,20 @@ class ShanChuLianBiaoDeJieDianLcof{
  */
 class Solution {
     public ListNode deleteNode(ListNode head, int val) {
-
+        if (head.val == val) {
+            return head.next;
+        }
+        ListNode pre = head;
+        ListNode cur = head.next;
+        while (cur != null && cur.val != val) {
+            pre = cur;
+            cur = cur.next;
+        }
+        // 说明cur.val == val
+        if (cur != null) {
+            pre.next = cur.next;
+        }
+        return head;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
