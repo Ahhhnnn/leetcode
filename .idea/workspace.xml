@@ -22,18 +22,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51e693ce-05b5-43b8-9219-e969c3b5cbe7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[剑指 Offer 21]调整数组顺序使奇数位于偶数前面.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
+    <list default="true" id="51e693ce-05b5-43b8-9219-e969c3b5cbe7" name="Default Changelist" comment="2020-07-12">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[剑指 Offer 29]顺时针打印矩阵.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet46.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 52LiangGeLianBiaoDeDiYiGeGongGongJieDianLcof.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 52LiangGeLianBiaoDeDiYiGeGongGongJieDianLcof.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[剑指 Offer 10- I]斐波那契数列.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[剑指 Offer 18]删除链表的节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[剑指 Offer 18]删除链表的节点.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/translation.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +50,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -90,38 +94,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="zijie" />
       <recent name="com.he.niuke.leetcode0107" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DiaoZhengShuZuShunXuShiQiShuWeiYuOuShuQianMianLcof">
-    <configuration name="二叉搜索树的后序遍历序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.二叉搜索树的后序遍历序列" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.editor.cn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.leet46">
     <configuration name="DiaoZhengShuZuShunXuShiQiShuWeiYuOuShuQianMianLcof" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.DiaoZhengShuZuShunXuShiQiShuWeiYuOuShuQianMianLcof" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.editor.cn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LianBiaoZhongDaoShuDiKgeJieDianLcof" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.LianBiaoZhongDaoShuDiKgeJieDianLcof" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -146,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.he.链表.q24两两交换链表中的节点.Solution" />
+    <configuration name="leet206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zijie.leet206" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.he.链表.q24两两交换链表中的节点.*" />
+          <option name="PATTERN" value="zijie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,33 +138,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="leet3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zijie.leet3" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zijie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leet46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zijie.leet46" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zijie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.二叉搜索树的后序遍历序列" />
-      <item itemvalue="Application.LianBiaoZhongDaoShuDiKgeJieDianLcof" />
-      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.ShanChuLianBiaoDeJieDianLcof" />
       <item itemvalue="Application.DiaoZhengShuZuShunXuShiQiShuWeiYuOuShuQianMianLcof" />
+      <item itemvalue="Application.leet206" />
+      <item itemvalue="Application.leet3" />
+      <item itemvalue="Application.leet46" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leet46" />
+        <item itemvalue="Application.leet3" />
+        <item itemvalue="Application.leet206" />
         <item itemvalue="Application.DiaoZhengShuZuShunXuShiQiShuWeiYuOuShuQianMianLcof" />
         <item itemvalue="Application.ShanChuLianBiaoDeJieDianLcof" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.LianBiaoZhongDaoShuDiKgeJieDianLcof" />
-        <item itemvalue="Application.二叉搜索树的后序遍历序列" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +259,15 @@
       <workItem from="1617530666340" duration="2645000" />
       <workItem from="1618234635237" duration="52000" />
       <workItem from="1619618704033" duration="1428000" />
-      <workItem from="1620304456614" duration="2151000" />
+      <workItem from="1620304456614" duration="6395000" />
+      <workItem from="1621264258126" duration="1111000" />
+      <workItem from="1621342372835" duration="707000" />
+      <workItem from="1621346286553" duration="3189000" />
+      <workItem from="1621350336733" duration="37000" />
+      <workItem from="1621350450264" duration="83000" />
+      <workItem from="1621430427809" duration="58000" />
+      <workItem from="1621430674818" duration="4000" />
+      <workItem from="1621684498378" duration="4942000" />
     </task>
     <task id="LOCAL-00001" summary="2020-06-25">
       <created>1593095857381</created>
@@ -609,6 +620,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[剑指 Offer 21]调整数组顺序使奇数位于偶数前面.java</url>
           <line>33</line>
           <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[剑指 Offer 21]调整数组顺序使奇数位于偶数前面.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zijie/leet206.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zijie/leet3.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="94" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

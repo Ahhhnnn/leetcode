@@ -55,6 +55,7 @@ class ShanChuLianBiaoDeJieDianLcof{
  */
 class Solution {
     public ListNode deleteNode(ListNode head, int val) {
+        // 如果删除头结点
         if (head.val == val) {
             return head.next;
         }
