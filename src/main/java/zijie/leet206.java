@@ -29,6 +29,9 @@ public class leet206 {
      *     ListNode(int x) { val = x; }
      * }
      */
+    /**
+     * 206. 反转链表
+     */
     class Solution {
         public ListNode reverseList(ListNode head) {
             ListNode pre = null;
