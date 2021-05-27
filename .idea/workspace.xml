@@ -23,16 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e693ce-05b5-43b8-9219-e969c3b5cbe7" name="Default Changelist" comment="2020-07-12">
-      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet102二叉树层次遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet121买卖股票最佳时机.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet146LRU缓存.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet160相交链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet165比较版本号.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet1两数之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet54顺时针打印矩阵.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet101对称二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/offer22倒数第k个数.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zijie/leet206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zijie/leet206.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zijie/leet3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zijie/leet3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,9 +94,9 @@
       <recent name="com.he.niuke.leetcode0107" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.leet102二叉树层次遍历">
-    <configuration name="leet1两数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zijie.leet1两数之和" />
+  <component name="RunManager" selected="Application.offer22倒数第k个数">
+    <configuration name="leet101对称二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zijie.leet101对称二叉树" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -154,8 +147,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leet46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zijie.leet46" />
+    <configuration name="offer22倒数第k个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zijie.offer22倒数第k个数" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -179,19 +172,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.leet46" />
-      <item itemvalue="Application.leet1两数之和" />
       <item itemvalue="Application.leet160相交链表" />
       <item itemvalue="Application.leet165比较版本号" />
       <item itemvalue="Application.leet102二叉树层次遍历" />
+      <item itemvalue="Application.leet101对称二叉树" />
+      <item itemvalue="Application.offer22倒数第k个数" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.offer22倒数第k个数" />
+        <item itemvalue="Application.leet101对称二叉树" />
         <item itemvalue="Application.leet102二叉树层次遍历" />
         <item itemvalue="Application.leet165比较版本号" />
         <item itemvalue="Application.leet160相交链表" />
-        <item itemvalue="Application.leet1两数之和" />
-        <item itemvalue="Application.leet46" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +263,7 @@
       <workItem from="1621350450264" duration="83000" />
       <workItem from="1621430427809" duration="58000" />
       <workItem from="1621430674818" duration="4000" />
-      <workItem from="1621684498378" duration="12305000" />
+      <workItem from="1621684498378" duration="14106000" />
     </task>
     <task id="LOCAL-00001" summary="2020-06-25">
       <created>1593095857381</created>
@@ -669,6 +662,21 @@
           <line>55</line>
           <option name="timeStamp" value="103" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zijie/leet101对称二叉树.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zijie/offer22倒数第k个数.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zijie/offer22倒数第k个数.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
@@ -678,6 +686,11 @@
         <PinnedItemInfo parentTag="zijie.leet160相交链表$ListNode" memberName="val" />
       </pinned-members>
     </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode$leet101.ic" NAME="leet101对称二叉树 Coverage Results" MODIFIED="1622130117829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>zijie.*</FILTER>
+    </SUITE>
   </component>
   <component name="masterDetails">
     <states>
