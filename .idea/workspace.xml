@@ -23,8 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e693ce-05b5-43b8-9219-e969c3b5cbe7" name="Default Changelist" comment="2020-07-12">
-      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet101对称二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/offer22倒数第k个数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet23合并k个链表.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -263,7 +262,7 @@
       <workItem from="1621350450264" duration="83000" />
       <workItem from="1621430427809" duration="58000" />
       <workItem from="1621430674818" duration="4000" />
-      <workItem from="1621684498378" duration="14106000" />
+      <workItem from="1621684498378" duration="14604000" />
     </task>
     <task id="LOCAL-00001" summary="2020-06-25">
       <created>1593095857381</created>
