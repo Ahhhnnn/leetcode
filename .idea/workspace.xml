@@ -23,8 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e693ce-05b5-43b8-9219-e969c3b5cbe7" name="Default Changelist" comment="2020-07-12">
+      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet62不同路径.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zijie/leet23合并k个链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zijie/leet23合并k个链表.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,7 @@
       <recent name="com.he.niuke.leetcode0107" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.leet23合并k个链表">
+  <component name="RunManager" selected="Application.leet62不同路径">
     <configuration name="leet101对称二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zijie.leet101对称二叉树" />
       <module name="leetcode" />
@@ -120,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leet165比较版本号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zijie.leet165比较版本号" />
+    <configuration name="leet23合并k个链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zijie.leet23合并k个链表" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -133,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leet23合并k个链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zijie.leet23合并k个链表" />
+    <configuration name="leet62不同路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zijie.leet62不同路径" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -171,19 +171,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.leet165比较版本号" />
       <item itemvalue="Application.leet102二叉树层次遍历" />
       <item itemvalue="Application.leet101对称二叉树" />
       <item itemvalue="Application.offer22倒数第k个数" />
       <item itemvalue="Application.leet23合并k个链表" />
+      <item itemvalue="Application.leet62不同路径" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leet62不同路径" />
         <item itemvalue="Application.leet23合并k个链表" />
         <item itemvalue="Application.offer22倒数第k个数" />
         <item itemvalue="Application.leet101对称二叉树" />
         <item itemvalue="Application.leet102二叉树层次遍历" />
-        <item itemvalue="Application.leet165比较版本号" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +262,7 @@
       <workItem from="1621350450264" duration="83000" />
       <workItem from="1621430427809" duration="58000" />
       <workItem from="1621430674818" duration="4000" />
-      <workItem from="1621684498378" duration="18931000" />
+      <workItem from="1621684498378" duration="20357000" />
     </task>
     <task id="LOCAL-00001" summary="2020-06-25">
       <created>1593095857381</created>
@@ -680,6 +680,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/zijie/leet23合并k个链表.java</url>
           <line>25</line>
           <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zijie/leet62不同路径.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zijie/leet62不同路径.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="118" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
