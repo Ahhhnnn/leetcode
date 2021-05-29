@@ -1,9 +1,7 @@
 package zijie;
 
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 public class leet23合并k个链表 {
     public static void main(String[] args) {
@@ -36,7 +34,74 @@ public class leet23合并k个链表 {
     class Solution {
         public ListNode mergeKLists(ListNode[] lists) {
             //return getListNode(lists);
-            return null;
+            // 优先级队列
+            //return getNodeByPriorityQueue(lists);
+
+            // 合并两个链表，两两合并
+            ListNode ans = null;
+            for (ListNode list : lists) {
+                ans = mergeTwoLists(ans, list);
+            }
+            return ans;
+        }
+
+        /**
+         * 合并两个链表
+         * @param a 链表a
+         * @param b 链表b
+         * @return 合并后
+         */
+        public ListNode mergeTwoLists(ListNode a, ListNode b) {
+            if (a == null || b == null) {
+                return a == null ? b : a;
+            }
+            ListNode head = new ListNode(0);
+            ListNode tail = head, aptr =a, bptr = b;
+            while (aptr != null && bptr!= null) {
+                if (aptr.val < bptr.val) {
+                    tail.next = aptr;
+                    aptr = aptr.next;
+                } else {
+                    tail.next = bptr;
+                    bptr = bptr.next;
+                }
+                tail = tail.next;
+            }
+            // 合并剩余的
+            tail.next = aptr == null ? bptr : aptr;
+            return head.next;
+        }
+
+        /**
+         * 优先级队列
+         * @param lists 链表数组
+         * @return 合并后
+         */
+        private ListNode getNodeByPriorityQueue(ListNode[] lists) {
+            PriorityQueue<ListNode> queue = new PriorityQueue<>(Comparator.comparingInt(x -> x.val));
+            //PriorityQueue<ListNode> queue1 = new PriorityQueue<>((x,y) -> x.val - y.val);
+            PriorityQueue<ListNode> queue1 = new PriorityQueue<>((x,y) -> {
+                return x.val - y.val;
+            });
+
+            for (ListNode list : lists) {
+                if (list != null) {
+                    queue.offer(list);
+                }
+            }
+            // 哨兵节点
+            ListNode head = new ListNode(0);
+            // 指向头结点
+            ListNode tail = head;
+            // 取出最小的节点
+            while (!queue.isEmpty()) {
+                tail.next = queue.poll();
+                tail = tail.next;
+                if (tail.next != null) {
+                    queue.offer(tail.next);
+                }
+            }
+            return head.next;
         }
 
         /**

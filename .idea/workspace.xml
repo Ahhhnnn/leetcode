@@ -262,7 +262,7 @@
       <workItem from="1621350450264" duration="83000" />
       <workItem from="1621430427809" duration="58000" />
       <workItem from="1621430674818" duration="4000" />
-      <workItem from="1621684498378" duration="16207000" />
+      <workItem from="1621684498378" duration="18931000" />
     </task>
     <task id="LOCAL-00001" summary="2020-06-25">
       <created>1593095857381</created>
@@ -678,12 +678,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/zijie/leet23合并k个链表.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="107" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/zijie/leet23合并k个链表.java</url>
-          <line>27</line>
+          <line>25</line>
           <option name="timeStamp" value="108" />
         </line-breakpoint>
       </breakpoints>
@@ -692,6 +687,7 @@
       <pinned-members>
         <PinnedItemInfo parentTag="zijie.leet160相交链表$ListNode" memberName="next" />
         <PinnedItemInfo parentTag="leetcode.editor.cn.二叉树的镜像$TreeNode" memberName="val" />
+        <PinnedItemInfo parentTag="zijie.leet23合并k个链表$ListNode" memberName="val" />
         <PinnedItemInfo parentTag="zijie.leet160相交链表$ListNode" memberName="val" />
       </pinned-members>
     </pin-to-top-manager>
