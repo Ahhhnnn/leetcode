@@ -23,7 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e693ce-05b5-43b8-9219-e969c3b5cbe7" name="Default Changelist" comment="2020-07-12">
-      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet62不同路径.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet105从前序与中序遍历序列构造二叉树.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +93,7 @@
       <recent name="com.he.niuke.leetcode0107" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.leet62不同路径">
+  <component name="RunManager" selected="Application.leet105从前序与中序遍历序列构造二叉树">
     <configuration name="leet101对称二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zijie.leet101对称二叉树" />
       <module name="leetcode" />
@@ -107,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leet102二叉树层次遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zijie.leet102二叉树层次遍历" />
+    <configuration name="leet105从前序与中序遍历序列构造二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zijie.leet105从前序与中序遍历序列构造二叉树" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -171,19 +171,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.leet102二叉树层次遍历" />
       <item itemvalue="Application.leet101对称二叉树" />
       <item itemvalue="Application.offer22倒数第k个数" />
       <item itemvalue="Application.leet23合并k个链表" />
       <item itemvalue="Application.leet62不同路径" />
+      <item itemvalue="Application.leet105从前序与中序遍历序列构造二叉树" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leet105从前序与中序遍历序列构造二叉树" />
         <item itemvalue="Application.leet62不同路径" />
         <item itemvalue="Application.leet23合并k个链表" />
         <item itemvalue="Application.offer22倒数第k个数" />
         <item itemvalue="Application.leet101对称二叉树" />
-        <item itemvalue="Application.leet102二叉树层次遍历" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +262,7 @@
       <workItem from="1621350450264" duration="83000" />
       <workItem from="1621430427809" duration="58000" />
       <workItem from="1621430674818" duration="4000" />
-      <workItem from="1621684498378" duration="20357000" />
+      <workItem from="1621684498378" duration="23606000" />
     </task>
     <task id="LOCAL-00001" summary="2020-06-25">
       <created>1593095857381</created>
@@ -690,6 +690,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/zijie/leet62不同路径.java</url>
           <line>32</line>
           <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zijie/leet105从前序与中序遍历序列构造二叉树.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zijie/leet105从前序与中序遍历序列构造二叉树.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="121" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
