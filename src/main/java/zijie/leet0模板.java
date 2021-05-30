@@ -1,10 +1,10 @@
 package zijie;
 
 
-public class leet模板 {
+public class leet0模板 {
     public static void main(String[] args) {
         //测试代码  
-        Solution solution = new leet模板().new Solution();
+        Solution solution = new leet0模板().new Solution();
 
     }
 
