@@ -23,9 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e693ce-05b5-43b8-9219-e969c3b5cbe7" name="Default Changelist" comment="2020-07-12">
-      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet300最长递增子序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet415字符串相加.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet88合并两个有序数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet230二叉搜索树中第K小的元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet2两数相加.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/zijie圆环回原点问题.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +95,7 @@
       <recent name="com.he.niuke.leetcode0107" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.leet415字符串相加">
+  <component name="RunManager" selected="Application.leet230二叉搜索树中第K小的元素">
     <configuration name="leet105从前序与中序遍历序列构造二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zijie.leet105从前序与中序遍历序列构造二叉树" />
       <module name="leetcode" />
@@ -122,8 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leet415字符串相加" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zijie.leet415字符串相加" />
+    <configuration name="leet230二叉搜索树中第K小的元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zijie.leet230二叉搜索树中第K小的元素" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -135,8 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leet62不同路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zijie.leet62不同路径" />
+    <configuration name="leet415字符串相加" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zijie.leet415字符串相加" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -173,19 +173,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.leet62不同路径" />
       <item itemvalue="Application.leet105从前序与中序遍历序列构造二叉树" />
       <item itemvalue="Application.leet215数组中的第k大元素" />
       <item itemvalue="Application.leet76最小覆盖子串" />
       <item itemvalue="Application.leet415字符串相加" />
+      <item itemvalue="Application.leet230二叉搜索树中第K小的元素" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leet230二叉搜索树中第K小的元素" />
         <item itemvalue="Application.leet415字符串相加" />
         <item itemvalue="Application.leet76最小覆盖子串" />
         <item itemvalue="Application.leet215数组中的第k大元素" />
         <item itemvalue="Application.leet105从前序与中序遍历序列构造二叉树" />
-        <item itemvalue="Application.leet62不同路径" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +264,7 @@
       <workItem from="1621350450264" duration="83000" />
       <workItem from="1621430427809" duration="58000" />
       <workItem from="1621430674818" duration="4000" />
-      <workItem from="1621684498378" duration="32845000" />
+      <workItem from="1621684498378" duration="36844000" />
     </task>
     <task id="LOCAL-00001" summary="2020-06-25">
       <created>1593095857381</created>
@@ -737,6 +737,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/zijie/leet415字符串相加.java</url>
           <line>10</line>
           <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zijie/leet230二叉搜索树中第K小的元素.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zijie/leet230二叉搜索树中第K小的元素.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="134" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
