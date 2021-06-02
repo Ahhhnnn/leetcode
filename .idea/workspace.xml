@@ -23,9 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e693ce-05b5-43b8-9219-e969c3b5cbe7" name="Default Changelist" comment="2020-07-12">
-      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet01快排.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet128最长连续序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet110平衡二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet523连续的子数组和.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/he/树/q104二叉树的最大深度/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/he/树/q104二叉树的最大深度/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +95,7 @@
       <recent name="com.he.niuke.leetcode0107" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.leet01快排">
+  <component name="RunManager" selected="Application.leet523连续的子数组和">
     <configuration name="leet01快排" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zijie.leet01快排" />
       <module name="leetcode" />
@@ -134,8 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leet230二叉搜索树中第K小的元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zijie.leet230二叉搜索树中第K小的元素" />
+    <configuration name="leet322零钱兑换" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zijie.leet322零钱兑换" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -147,8 +148,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leet322零钱兑换" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zijie.leet322零钱兑换" />
+    <configuration name="leet523连续的子数组和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zijie.leet523连续的子数组和" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -172,19 +173,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.leet230二叉搜索树中第K小的元素" />
       <item itemvalue="Application.leet143重建链表" />
       <item itemvalue="Application.leet322零钱兑换" />
       <item itemvalue="Application.leet128最长连续序列" />
       <item itemvalue="Application.leet01快排" />
+      <item itemvalue="Application.leet523连续的子数组和" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leet523连续的子数组和" />
         <item itemvalue="Application.leet01快排" />
         <item itemvalue="Application.leet128最长连续序列" />
         <item itemvalue="Application.leet322零钱兑换" />
         <item itemvalue="Application.leet143重建链表" />
-        <item itemvalue="Application.leet230二叉搜索树中第K小的元素" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +264,7 @@
       <workItem from="1621350450264" duration="83000" />
       <workItem from="1621430427809" duration="58000" />
       <workItem from="1621430674818" duration="4000" />
-      <workItem from="1621684498378" duration="44226000" />
+      <workItem from="1621684498378" duration="47382000" />
     </task>
     <task id="LOCAL-00001" summary="2020-06-25">
       <created>1593095857381</created>
@@ -776,6 +777,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/zijie/leet01快排.java</url>
           <line>9</line>
           <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zijie/leet523连续的子数组和.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zijie/leet523连续的子数组和.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="144" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
