@@ -2,10 +2,10 @@ package zijie;
 
 
 
-public class leet206 {
+public class leet206反转链表 {
     public static void main(String[] args) {
         //测试代码  
-        Solution solution = new leet206().new Solution();
+        Solution solution = new leet206反转链表().new Solution();
         ListNode head = new ListNode(1);
         ListNode noede1 = new ListNode(2);
         ListNode noede2 = new ListNode(3);
