@@ -23,8 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e693ce-05b5-43b8-9219-e969c3b5cbe7" name="Default Changelist" comment="2020-07-12">
-      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet525连续数组.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet01冒泡.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet347猜数字大小.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zijie/leet53最大子序和.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +59,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="$PROJECT_DIR$/../../../maven_repository" />
+        <option name="mavenHome" value="E:\softwore\IntelliJ IDEA 2020.2.4\plugins\maven\lib\maven3" />
         <option name="userSettingsFile" value="$PROJECT_DIR$/../../../software/apache-maven-3.6.3/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -78,6 +80,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603116909991" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -93,9 +96,22 @@
       <recent name="com.he.niuke.leetcode0107" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.leet128最长连续序列">
+  <component name="RunManager" selected="Application.leet01冒泡">
     <configuration name="leet01快排" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zijie.leet01快排" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zijie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leet01冒泡" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zijie.leet01冒泡" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -120,32 +136,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leet143重建链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zijie.leet143重建链表" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zijie.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="leet322零钱兑换" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zijie.leet322零钱兑换" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zijie.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="leet523连续的子数组和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zijie.leet523连续的子数组和" />
       <module name="leetcode" />
@@ -159,31 +149,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="leet53最大子序和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zijie.leet53最大子序和" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zijie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.leet143重建链表" />
-      <item itemvalue="Application.leet322零钱兑换" />
       <item itemvalue="Application.leet128最长连续序列" />
       <item itemvalue="Application.leet01快排" />
       <item itemvalue="Application.leet523连续的子数组和" />
+      <item itemvalue="Application.leet53最大子序和" />
+      <item itemvalue="Application.leet01冒泡" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leet01冒泡" />
+        <item itemvalue="Application.leet53最大子序和" />
         <item itemvalue="Application.leet128最长连续序列" />
         <item itemvalue="Application.leet523连续的子数组和" />
         <item itemvalue="Application.leet01快排" />
-        <item itemvalue="Application.leet322零钱兑换" />
-        <item itemvalue="Application.leet143重建链表" />
       </list>
     </recent_temporary>
   </component>
@@ -263,6 +268,9 @@
       <workItem from="1621430427809" duration="58000" />
       <workItem from="1621430674818" duration="4000" />
       <workItem from="1621684498378" duration="49324000" />
+      <workItem from="1623600282902" duration="250000" />
+      <workItem from="1623600570008" duration="1309000" />
+      <workItem from="1623643444341" duration="3299000" />
     </task>
     <task id="LOCAL-00001" summary="2020-06-25">
       <created>1593095857381</created>
@@ -347,6 +355,44 @@
     <MESSAGE value="2020-07-011" />
     <MESSAGE value="2020-07-12" />
     <option name="LAST_COMMIT_MESSAGE" value="2020-07-12" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="147" key="GridCell.Tab.0.bottom" timestamp="1623645644679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="147" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1623645644679" />
+    <state width="1877" height="147" key="GridCell.Tab.0.center" timestamp="1623645644679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="147" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1623645644679" />
+    <state width="1877" height="147" key="GridCell.Tab.0.left" timestamp="1623645644679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="147" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1623645644679" />
+    <state width="1877" height="147" key="GridCell.Tab.0.right" timestamp="1623645644679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="147" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1623645644679" />
+    <state width="1877" height="147" key="GridCell.Tab.1.bottom" timestamp="1623645644679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="147" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1623645644679" />
+    <state width="1877" height="147" key="GridCell.Tab.1.center" timestamp="1623645644679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="147" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1623645644679" />
+    <state width="1877" height="147" key="GridCell.Tab.1.left" timestamp="1623645644679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="147" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1623645644679" />
+    <state width="1877" height="147" key="GridCell.Tab.1.right" timestamp="1623645644679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="147" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1623645644679" />
+    <state x="690" y="279" key="extract.method.dialog" timestamp="1623602177728">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="279" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623602177728" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -780,6 +826,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/zijie/leet523连续的子数组和.java</url>
           <line>26</line>
           <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zijie/leet01冒泡.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="147" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
